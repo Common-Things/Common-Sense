@@ -53,7 +53,7 @@ couplings
 https://www.curseforge.com/minecraft/mc-mods/couplings/
 
 craftpresence
-https://www.curseforge.com/minecraft/mc-mods/
+https://www.curseforge.com/minecraft/mc-mods/craftpresence
 
 crafty-crashes
 https://www.curseforge.com/minecraft/mc-mods/crafty-crashes/
