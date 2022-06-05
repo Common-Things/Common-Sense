@@ -1,0 +1,19 @@
+{
+  "name": "Sheep-o-base",
+  "current": "Sheep-o-base",
+  "boxes": [
+    {
+      "pos1": [
+        671,
+        48,
+        -1585
+      ],
+      "pos2": [
+        576,
+        96,
+        -1680
+      ],
+      "name": "Sheep-o-base"
+    }
+  ]
+}

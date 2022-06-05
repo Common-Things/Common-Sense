@@ -1,0 +1,19 @@
+{
+  "name": "ElonCraft Tower",
+  "current": "ElonCraft Tower",
+  "boxes": [
+    {
+      "pos1": [
+        427,
+        3,
+        1476
+      ],
+      "pos2": [
+        470,
+        205,
+        1442
+      ],
+      "name": "ElonCraft Tower"
+    }
+  ]
+}

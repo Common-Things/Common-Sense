@@ -1,0 +1,10 @@
+{
+	"tpMethod": "/tp",
+	"tpThroughRange": 256,
+	"tpOnTopRange": 256,
+	"tpForwardRange": 100,
+	"allowCrawling": false,
+	"allowLava": false,
+	"setBedrockLimit": true,
+	"previousLocation": null
+}
