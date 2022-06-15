@@ -1,266 +1,332 @@
-3dskinlayer
-https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d/
+3D Skil Layers
+https://modrinth.com/mod/3dskinlayers
 
-advancements-enlarger
-https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger/
+AdvancementInfo
+https://modrinth.com/mod/advancementinfo
 
-animatica
-https://modrinth.com/mod/animatica/
+Animatica
+https://modrinth.com/mod/animatica
 
-architectury
-https://www.curseforge.com/minecraft/mc-mods/architectury-fabric/
+Architectury API
+https://modrinth.com/mod/architectury-api
 
-betterfpsdist
-https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric/
+ARRP
+https://modrinth.com/mod/arrp
 
-betterthirdperson
-https://modrinth.com/mod/better-third-person/
+bad packets
+https://modrinth.com/mod/badpackets
 
-borderless-mining
-https://modrinth.com/mod/borderless-mining/
+Bedrodium
+https://modrinth.com/mod/bedrodium
 
-breakprogress
-https://www.curseforge.com/minecraft/mc-mods/break-progress/
+Better Biome Blend
+https://modrinth.com/mod/better-biome-blend
 
-c2me
-https://modrinth.com/mod/c2me-fabric/
+BetterF3
+https://modrinth.com/mod/betterf3
 
-cem
-https://modrinth.com/mod/cem/
+Blanket
+https://modrinth.com/mod/blanket
 
-citresewn
-https://modrinth.com/mod/cit-resewn/
+Blockify
+https://modrinth.com/mod/blockify
 
-cloth-config
-https://www.curseforge.com/minecraft/mc-mods/cloth-config/
+Borderless Mining
+https://modrinth.com/mod/borderless-mining
 
-colormatic
-https://modrinth.com/mod/colormatic/
+Break Progress
+https://www.curseforge.com/minecraft/mc-mods/break-progress
 
-complete-config
-https://modrinth.com/mod/completeconfig/
+Concurrent Chunk Management Engine (Fabric)
+https://modrinth.com/mod/c2me-fabric
 
-continuity
-https://modrinth.com/mod/continuity/
+Carpet-Fixes
+https://modrinth.com/mod/carpet-fixes
 
-controlling
-https://www.curseforge.com/minecraft/mc-mods/controlling/
+Carpet TIS Addition
+https://modrinth.com/mod/carpet-tis-addition
 
-cosmetica
-https://modrinth.com/mod/cosmetica/
+Custom Entity Models
+https://modrinth.com/mod/cem
 
-couplings
-https://www.curseforge.com/minecraft/mc-mods/couplings/
+CIT Resewn
+https://modrinth.com/mod/cit-resewn
 
-craftpresence
-https://www.curseforge.com/minecraft/mc-mods/craftpresence
+Cloth Config API
+https://modrinth.com/mod/cloth-config
 
-crafty-crashes
-https://www.curseforge.com/minecraft/mc-mods/crafty-crashes/
+Colormatic
+https://modrinth.com/mod/colormatic
 
-cullleaves
-https://modrinth.com/mod/cull-leaves/
+Common-Brand
+https://modrinth.com/mod/common-brand
 
-dashloader
-https://modrinth.com/mod/dashloader/
+CompleteConfig
+https://modrinth.com/mod/completeconfig
 
-dcch
-https://modrinth.com/mod/dcch/
+Continuity
+https://modrinth.com/mod/continuity
 
-debugify
-https://modrinth.com/mod/debugify/
+Controlling
+https://www.curseforge.com/minecraft/mc-mods/controlling
 
-dynamic-fps
-https://modrinth.com/mod/dynamic-fps/
+Cosmetica
+https://modrinth.com/mod/cosmetica
 
-dynamicsuroundings
-https://modrinth.com/mod/dynamicsurroundingsfabric/
+Crafty-Crashes
+https://github.com/Chocohead/Crafty-Crashes
 
-enhancedblockentities
-https://modrinth.com/mod/ebe/
+Cyanide (Fabric)
+https://www.curseforge.com/minecraft/mc-mods/cyanide-fabric
 
-fabric-api
-https://modrinth.com/mod/fabric-api/
+DashLoader
+https://modrinth.com/mod/dashloader
 
-carpet
-https://modrinth.com/mod/carpetclient/
+Don't Clear Chat History
+https://modrinth.com/mod/dcch
 
-language-kotlin
-https://modrinth.com/mod/fabric-language-kotlin/
+Debugify
+https://modrinth.com/mod/debugify
 
-fabricskyboxes
-https://modrinth.com/mod/fabricskyboxes/
+Dynamic Crosshair
+https://modrinth.com/mod/dynamiccrosshair
 
-fabrictailor
-https://modrinth.com/mod/fabrictailor/
+Dynamic FPS
+https://modrinth.com/mod/dynamic-fps
 
-fabrishot
-https://modrinth.com/mod/fabrishot/
+Dynamic Surroundings: Fabric Edition
+https://modrinth.com/mod/dynamicsurroundingsfabric
 
-fallingleaves
-https://modrinth.com/mod/fallingleaves/
+Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)
+https://modrinth.com/mod/ears
 
-fastopenlinksandfolders
-https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders/
+Effective 💦
+https://www.curseforge.com/minecraft/mc-mods/effective
 
-ferritecore
-https://modrinth.com/mod/ferrite-core/
+EMI
+https://modrinth.com/mod/emi
 
-incendium
-https://www.curseforge.com/minecraft/mc-mods/incendium/
+Enhanced Block Entities
+https://modrinth.com/mod/ebe
 
-indium
-https://modrinth.com/mod/indium/
+EntityCulling
+https://modrinth.com/mod/entityculling
 
-inspecio
-https://modrinth.com/mod/inspecio/
+Entity Texture Features [Fabric]
+https://modrinth.com/mod/entitytexturefeatures
 
-interactic
-https://modrinth.com/mod/interactic/
+Essential
+https://essential.gg/
 
-iris
-https://modrinth.com/mod/iris/
+Carpet
+https://www.curseforge.com/minecraft/mc-mods/carpet
 
-item-model-fix
-https://www.curseforge.com/minecraft/mc-mods/item-model-fix/
+Fabric Language Kotlin
+https://modrinth.com/mod/fabric-language-kotlin
 
-itemscroller
-https://www.curseforge.com/minecraft/mc-mods/item-scroller/
+FabricSkyboxes
+https://modrinth.com/mod/fabricskyboxes
 
-krypton
-https://modrinth.com/mod/krypton/
+Fabric Tailor
+https://modrinth.com/mod/fabrictailor
 
-lambdabettergrass
-https://modrinth.com/mod/lambdabettergrass/
+Fabrishot
+https://modrinth.com/mod/fabrishot
 
-lambdadynamiclights
-https://modrinth.com/mod/lambdynamiclights/
+Fake Fabric Loader
+https://modrinth.com/mod/fake-floader
 
-lazydfu
-https://modrinth.com/mod/lazydfu/
+Falling Leaves
+https://modrinth.com/mod/fallingleaves
 
-litematica
-https://www.curseforge.com/minecraft/mc-mods/litematica/
+Fastload
+https://modrinth.com/mod/fastload
 
-litematica-printer
-https://github.com/aleksilassila/litematica-printer/
+FerriteCore
+https://modrinth.com/mod/ferrite-core
 
-lithium
-https://modrinth.com/mod/lithium/
+First-person Model (Forge/Fabric)
+https://www.curseforge.com/minecraft/mc-mods/first-person-model
 
-malilib
-https://www.curseforge.com/minecraft/mc-mods/malilib/
+Illuminations 🔥
+https://www.curseforge.com/minecraft/mc-mods/illuminations
 
-mc122477fix
-https://modrinth.com/mod/mc122477fix/
+Indium
+https://modrinth.com/mod/indium
 
-mixintrace
-https://modrinth.com/mod/mixintrace/
+Inspecio
+https://modrinth.com/mod/inspecio
 
-modmanager
-https://modrinth.com/mod/modmanager/
+Interactic
+https://modrinth.com/mod/interactic
 
-modmenu
-https://modrinth.com/mod/modmenu/
+Iris Shaders
+https://modrinth.com/mod/iris
 
-mods-command
-https://modrinth.com/mod/mods-command/
+Item Model Fix (Fabric)
+https://www.curseforge.com/minecraft/mc-mods/item-model-fix
 
-morechathistory
-https://modrinth.com/mod/morechathistory/
+Item Scroller
+https://www.curseforge.com/minecraft/mc-mods/item-scroller
 
-nbteditor
-https://www.curseforge.com/minecraft/mc-mods/nbt-editor/
+Krypton
+https://modrinth.com/mod/krypton
 
-not-enough-servers
-https://modrinth.com/mod/nes/
+LambdaBetterGrass
+https://modrinth.com/mod/lambdabettergrass
 
-pl3xmap
-https://github.com/NeumimTo/Pl3xMap/
+LambdaDynamicLights
+https://modrinth.com/mod/lambdynamiclights
 
-polymer
-https://modrinth.com/mod/polymer/
+Language Reload
+https://modrinth.com/mod/language-reload
 
-presencefootsteps
-https://modrinth.com/mod/presence-footsteps/
+LazyDFU
+https://modrinth.com/mod/lazydfu
 
-purpurclient
-https://modrinth.com/mod/purpurclient/
+Light Overlay
+https://modrinth.com/mod/light-overlay
 
-puzzle
-https://modrinth.com/mod/puzzle/
+Litematica
+https://www.curseforge.com/minecraft/mc-mods/litematica
 
-rebranded
-https://github.com/craftish37/fabric-Rebranded/
+Lithium
+https://modrinth.com/mod/lithium
 
-reloadaudiodriver
-https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-fabric/
+Main Menu Credits
+https://modrinth.com/mod/main-menu-credits
 
-respackopts
-https://modrinth.com/mod/respackopts/
+MaLiLib
+https://www.curseforge.com/minecraft/mc-mods/malilib
 
-roughlyenoughitems
-https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items/
+Memory Leak Fix
+https://modrinth.com/mod/memoryleakfix
 
-seedfix
-https://github.com/HyperCubeMC/Seedfix/
+MidnightLib
+https://modrinth.com/mod/midnightlib
 
-servertick
-https://modrinth.com/mod/servertick/
+MixinTrace
+https://modrinth.com/mod/mixintrace
 
-smoothboot
-https://modrinth.com/mod/smoothboot-fabric/
+Mod Manager
+https://modrinth.com/mod/modmanager
 
-sodium
-https://modrinth.com/mod/sodium/
+Mod Menu
+https://modrinth.com/mod/modmenu
 
-soundsphysics
-https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/
+Mods Command
+https://modrinth.com/mod/mods-command
+
+MoreChatHistory
+https://modrinth.com/mod/morechathistory
+
+NBT Editor
+https://www.curseforge.com/minecraft/mc-mods/nbt-editor
+
+NBT Tooltip
+https://modrinth.com/mod/nbttooltip
+
+Not Enough Animations
+https://modrinth.com/mod/not-enough-animations
+
+Pettable
+https://modrinth.com/mod/pettable
+
+Pl3xMap
+https://github.com/pl3xgaming/Pl3xMap
+
+Polymer
+https://modrinth.com/mod/polymer
+
+Presence Footsteps
+https://modrinth.com/mod/presence-footsteps
+
+PurpurClient
+https://modrinth.com/mod/purpurclient
+
+Puzzle
+https://modrinth.com/mod/puzzle
+
+Quilted Fabric API / Quilt Standard Libraries
+https://modrinth.com/mod/qsl
+
+Reload Audio Driver (RAD) [Fabric]
+https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-rad
+
+Scrollable Tooltips
+https://modrinth.com/mod/scrollable-tooltips
+
+Seedfix
+https://github.com/HyperCubeMC/Seedfix
+
+Server Tick
+https://modrinth.com/mod/servertick
+
+'Slight' Gui Modifications
+https://modrinth.com/mod/slight-gui-modifications
+
+Smooth Boot (Fabric)
+https://modrinth.com/mod/smoothboot-fabric
+
+Smooth Scrolling Everywhere (Fabric)
+https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric
+
+Sodium
+https://modrinth.com/mod/sodium
+
+Sodium Extra
+https://modrinth.com/mod/sodium-extra
+
+Sound Physics Remastered
+https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files
 
 spark
-https://modrinth.com/mod/spark/
+https://modrinth.com/mod/spark
 
-spectater
-https://modrinth.com/mod/spectater/
+Spectater
+https://modrinth.com/mod/spectater
 
-starlight
-https://modrinth.com/mod/starlight/
+Starlight (Fabric)
+https://modrinth.com/mod/starlight
 
-tcc
-https://thecreeperscode.com/download/
+TP Utils
+https://modrinth.com/mod/tp-utils
 
-terralith
-https://www.curseforge.com/minecraft/mc-mods/terralith/
+Tweakeroo
+https://www.curseforge.com/minecraft/mc-mods/tweakeroo
 
-tooltipfix
-https://www.curseforge.com/minecraft/mc-mods/tooltipfix/
+ViaFabric
+https://modrinth.com/mod/viafabric
 
-tweakeroo
-https://www.curseforge.com/minecraft/mc-mods/tweakeroo/
+Visual Overhaul
+https://modrinth.com/mod/visual-overhaul
 
-viafabric
-https://www.curseforge.com/minecraft/mc-mods/viafabric/
+Simple Voice Chat
+https://modrinth.com/mod/simple-voice-chat
 
-voicechat
-https://modrinth.com/mod/simple-voice-chat/
+Watson
+https://modrinth.com/mod/watson
 
-watson
-https://modrinth.com/mod/watson/
+Wavey Capes
+https://modrinth.com/mod/wavey-capes
 
-worldeditcui
-https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric/
+WorldEdit CUI (Fabric)
+https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric
 
-worldedit
-https://www.curseforge.com/minecraft/mc-mods/worldedit/
+WorldEdit
+https://www.curseforge.com/minecraft/mc-mods/worldedit
 
-wthit
-https://modrinth.com/mod/wthit/
+WTHIT
+https://modrinth.com/mod/wthit
 
-xaeros-minimap
-https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/
+WTHIT Plugins
+https://modrinth.com/mod/wthit-plugins
 
-xaeros-worldmap
-https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/
+Xaero's Minimap
+https://chocolateminecraft.com/minimap2.php
 
-yosbr
-https://www.curseforge.com/minecraft/mc-mods/yosbr/
+Xaero's World Map
+https://chocolateminecraft.com/worldmap.php
+
+Your Options Shall Be Respected (YOSBR)
+https://www.curseforge.com/minecraft/mc-mods/yosbr

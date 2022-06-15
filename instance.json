@@ -778,164 +778,6 @@
         }
       },
       {
-        "name": "Better Fps - Render Distance[Fabric]",
-        "version": "betterfpsdist-fabric-1.18-1.8.jar",
-        "optional": true,
-        "file": "betterfpsdist-fabric-1.18-1.8.jar",
-        "type": "mods",
-        "description": "Better fps for 1.16+ minecraft, improved render distances",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 582640,
-        "curseForgeFileId": 3768225,
-        "curseForgeProject": {
-          "id": 582640,
-          "name": "Better Fps - Render Distance[Fabric]",
-          "authors": [
-            {
-              "id": 505477,
-              "name": "someaddon",
-              "url": "https://www.curseforge.com/members/100114338-someaddon?username=someaddon"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Better fps for 1.16+ minecraft, improved render distances",
-          "categories": [
-            {
-              "name": "Miscellaneous",
-              "slug": "mc-miscellaneous",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
-              "dateModified": "2014-06-15T04:27:14.543Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 425,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 425,
-          "classId": 6,
-          "slug": "better-fps-render-distance-fabric",
-          "isFeatured": false,
-          "dateModified": "2022-05-31T07:53:51.607Z",
-          "dateCreated": "2022-02-23T16:54:10.243Z",
-          "dateReleased": "2022-04-25T09:21:55.093Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/someaddons/betterfpsdistances/issues"
-          },
-          "logo": {
-            "id": 531772,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/531/772/256/256/637854365197294123.png",
-            "title": "637854365197294123.png",
-            "url": "https://media.forgecdn.net/avatars/531/772/637854365197294123.png",
-            "modId": 582640
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 3768225
-        },
-        "curseForgeFile": {
-          "id": 3768225,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "betterfpsdist-fabric-1.18-1.8.jar",
-          "fileName": "betterfpsdist-fabric-1.18-1.8.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2022-04-25T09:21:55.093Z",
-          "fileLength": 17740,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 3878706575,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1438559181,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 102165255,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 1005721072,
-              "name": "betterfpsdist.mixins.json"
-            },
-            {
-              "fingerprint": 4288801447,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 1578594931,
-              "name": "betterfpsdist-fabric-refmap.json"
-            },
-            {
-              "fingerprint": 740213799,
-              "name": "com"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "e6c34589a586600bae7e7c1135d947229b9263ff",
-              "algo": 1
-            },
-            {
-              "value": "e3417e013df9adee4de115681e4b8e09",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000001",
-              "gameVersion": "1.18.1",
-              "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
-              "gameVersionName": "1.18.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000002",
-              "gameVersion": "1.18.2",
-              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-              "gameVersionName": "1.18.2"
-            }
-          ],
-          "gameVersions": [
-            "1.18.1",
-            "Fabric",
-            "1.18.2"
-          ],
-          "fileFingerprint": 661924418,
-          "modId": 582640
-        }
-      },
-      {
         "name": "Blanket",
         "version": "1.0.3",
         "optional": true,
@@ -1887,586 +1729,6 @@
           ],
           "fileFingerprint": 1306476453,
           "modId": 250398
-        }
-      },
-      {
-        "name": "Cosmetica",
-        "version": "Cosmetica 1.1.1",
-        "optional": true,
-        "file": "Cosmetica 1.18.2 1.1.1.jar",
-        "type": "mods",
-        "description": "Free custom capes and cosmetics for Minecraft",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "modrinthProject": {
-          "id": "s9hF9QGp",
-          "slug": "cosmetica",
-          "project_type": "mod",
-          "team": "ro1Sf3H2",
-          "title": "Cosmetica",
-          "description": "Free custom capes and cosmetics for Minecraft",
-          "body": "# Cosmetica\n#### Cosmetica lets you customize your player on a whole new level using custom capes, hats, shoulder buddies, and more!\n<br><br>\n\n<video muted autoplay loop src=\"https://cosmetica.cc/page/small.mp4\"></video>\n<br><br>\n\n## Features\n\n- Custom _legal_ capes and elytras up to 2048x1024 resolution.\n- Custom hats.\n- Custom shoulder buddies.\n- Custom lore (a second nametag above your head) to show your Discord tag, Twitch URL, pronouns, or title.\n- [Interactive online catalog](https://cosmetica.cc/explore) of all our cosmetics to easily browse and preview cosmetics on your skin before equipping.\n- Support for third party capes from Cloaks+, Optifine, LabyMod, Mantle, MinecraftCapes.net, Arc, Wynntils and 5zig (all individually configurable).\n- Advanced secure and easy to use login system that doesn't even require you to enter a password.\n- Upload your own capes, hats and shoulder buddies.\n- Make your own hats and shoulder buddies in BlockBench.\n- Region specific effects (optional) that apply cosmetic effects to players based on their country of origin.\n- Nearly all features are disableable.\n- Test all custom models (hats/shoulder buddies) in-game before uploading to Cosmetica.\n- ### All cosmetics are free.\n<br><br>\n\n## Screenshots\n### In-game kitted out with Cosmetica\n<br>\n\n![In-game kitted out with Cosmetica](https://cosmetica.cc/page/splash/Eyezah-Tuikat.jpg)\n<br><br><br>\n### High definition cape\n<br>\n\n![High definition cape](https://cosmetica.cc/page/splash/Eyezah-Cape.jpg)\n<br><br><br>\n### Example of lore\n<br>\n\n![Example of lore](https://cosmetica.cc/page/splash/Eyezah-Lore.jpg)\n<br><br><br>\n## Installation\nMake sure you have the latest version of [Fabric Loader](https://fabricmc.net/use/) installed. Afterwards, all you need to do is simply drop the mod into your mods folder.\n<br><br><br>\n## Customizing Cosmetics\nCosmetica replaces the _Skin Customization_ screen with all new Cosmetica settings. From here, click _Customize Cosmetics_ to open the Cosmetica catalog where you can modify your cosmetics. Click _Reload Cosmetics_ and then _Done_ for your changes to take effect.\n<br><br><br>\n## Reporting Issues\nPlease use the [issue tracker](https://github.com/EyezahMC/Cosmetica/issues) linked at the top of the page to report bugs, crashes, and other issues.\n<br><br><br>\n## Connect With Us\nIf you have any questions or want to connect with us and our community, join our [Discord server](https://discord.gg/aQh5SJEUBm)! You can find all our social media at the bottom of [cosmetica.cc](https://cosmetica.cc).",
-          "published": "2022-02-18T01:08:35+00:00",
-          "updated": "2022-05-03T02:18:33+00:00",
-          "status": "approved",
-          "license": {
-            "id": "custom",
-            "name": "Custom License",
-            "url": "https://github.com/EyezahMC/Cosmetica/blob/master/LICENSE"
-          },
-          "client_side": "required",
-          "server_side": "unsupported",
-          "categories": [
-            "misc",
-            "decoration"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/s9hF9QGp/e954c4883e72f95d8e799d167171cde74b059b51.gif",
-          "issues_url": "https://github.com/EyezahMC/Cosmetica/issues",
-          "source_url": "https://github.com/EyezahMC/Cosmetica",
-          "discord_url": "https://discord.gg/aQh5SJEUBm",
-          "donation_urls": [
-            {
-              "id": "ko-fi",
-              "platform": "Ko-fi",
-              "url": "https://ko-fi.com/cosmetica"
-            }
-          ],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "Zjeehk3w",
-          "project_id": "s9hF9QGp",
-          "author_id": "LILv6mXu",
-          "name": "Cosmetica 1.1.1",
-          "version_number": "1.1.1",
-          "changelog": "-  Add \"retry\" button to unauthenticated screen when client fails to log into Cosmetica API\n- Improve error handling\n- Add support for modpack to choose player's starter cape and cape settings (cape must be official, player mustn't have used Cosmetica before)\n- Works on Quilt",
-          "date_published": "2022-05-03T02:18:34+00:00",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "839b83d55cf4d3e89db63ce99f20ad3cce0fbe3d79949d80d3c07906583f3601952daad363cb88ba4da2e9967257db53f675cac0760a7e122703f98b1561b5de",
-                "sha1": "46c040669a1dc8151674e24b47220582bbec77be"
-              },
-              "url": "https://cdn.modrinth.com/data/s9hF9QGp/versions/1.1.1/Cosmetica%201.18.1%201.1.1.jar",
-              "filename": "Cosmetica 1.18.1 1.1.1.jar",
-              "primary": false,
-              "size": 402310
-            },
-            {
-              "hashes": {
-                "sha512": "c471981345879032088864530e702cce751d0754c6c9ddbf3a42b18dc7caabab7ecacac0e580a7d5f9b83d13de176f815437a2cadc893892cdb02d5ce83b7dfb",
-                "sha1": "cb5ba05f4935fde3bba51a825ee394f1480e6950"
-              },
-              "url": "https://cdn.modrinth.com/data/s9hF9QGp/versions/1.1.1/Cosmetica%201.18.2%201.1.1.jar",
-              "filename": "Cosmetica 1.18.2 1.1.1.jar",
-              "primary": true,
-              "size": 416954
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.18",
-            "1.18.1",
-            "1.18.2"
-          ],
-          "loaders": [
-            "fabric",
-            "quilt"
-          ]
-        }
-      },
-      {
-        "name": "Couplings",
-        "version": "Couplings 1.8.1+1.18.2",
-        "optional": true,
-        "file": "Couplings-1.8.1+1.18.2.jar",
-        "type": "mods",
-        "description": "Coupled usage of doors, fence gates, and trapdoors",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 311120,
-        "curseForgeFileId": 3816074,
-        "curseForgeProject": {
-          "id": 311120,
-          "name": "Couplings",
-          "authors": [
-            {
-              "id": 212663,
-              "name": "HeckinChloe",
-              "url": "https://www.curseforge.com/members/28261738-heckinchloe?username=heckinchloe"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Coupled usage of doors, fence gates, and trapdoors",
-          "categories": [
-            {
-              "name": "Redstone",
-              "slug": "redstone",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/redstone",
-              "dateModified": "2016-01-19T22:21:51.64Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 4558,
-              "iconUrl": "https://media.forgecdn.net/avatars/32/937/635888173116238506.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Server Utility",
-              "slug": "server-utility",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
-              "dateModified": "2014-05-08T17:44:55.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 435,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 435,
-          "classId": 6,
-          "slug": "couplings",
-          "isFeatured": false,
-          "dateModified": "2022-06-03T17:19:41.66Z",
-          "dateCreated": "2019-01-11T21:08:34.893Z",
-          "dateReleased": "2022-06-03T17:15:16.693Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/couplings",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/ChloeDawn/Couplings/issues",
-            "sourceUrl": "https://github.com/ChloeDawn/Couplings"
-          },
-          "logo": {
-            "id": 401831,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/401/831/256/256/637608565658753972.png",
-            "title": "637608565658753972.png",
-            "url": "https://media.forgecdn.net/avatars/401/831/637608565658753972.png",
-            "modId": 311120
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 408656,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/408/656/310/172/17-11-2021_19-12-26.gif",
-              "title": "Coupled trapdoors (GIF)",
-              "url": "https://media.forgecdn.net/attachments/408/656/17-11-2021_19-12-26.gif",
-              "modId": 311120
-            },
-            {
-              "id": 408657,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/408/657/310/172/17-11-2021_19-13-31.gif",
-              "title": "Coupled fence gates (GIF)",
-              "url": "https://media.forgecdn.net/attachments/408/657/17-11-2021_19-13-31.gif",
-              "modId": 311120
-            },
-            {
-              "id": 408655,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/408/655/310/172/17-11-2021_19-11-08.gif",
-              "title": "Coupled doors (GIF)",
-              "url": "https://media.forgecdn.net/attachments/408/655/17-11-2021_19-11-08.gif",
-              "modId": 311120
-            }
-          ],
-          "mainFileId": 3816074
-        },
-        "curseForgeFile": {
-          "id": 3816074,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "Couplings 1.8.1+1.18.2",
-          "fileName": "Couplings-1.8.1+1.18.2.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2022-06-03T17:14:48.22Z",
-          "fileLength": 340528,
-          "dependencies": [],
-          "alternateFileId": 3816075,
-          "modules": [
-            {
-              "fingerprint": 393179147,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 1185419476,
-              "name": "LICENSE"
-            },
-            {
-              "fingerprint": 194109050,
-              "name": "pack.png"
-            },
-            {
-              "fingerprint": 1411720374,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 3873212777,
-              "name": "mixins"
-            },
-            {
-              "fingerprint": 2324778070,
-              "name": "dev"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "c7d13c7308c8b6f3dcf8f38048bff45ca0f70b1f",
-              "algo": 1
-            },
-            {
-              "value": "464279223c15f8a8453e4e7ec5be6817",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000002",
-              "gameVersion": "1.18.2",
-              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-              "gameVersionName": "1.18.2"
-            }
-          ],
-          "gameVersions": [
-            "Fabric",
-            "1.18.2"
-          ],
-          "fileFingerprint": 3930198175,
-          "modId": 311120
-        }
-      },
-      {
-        "name": "CraftPresence",
-        "version": "CraftPresence-Fabric v1.8.8 Release (1.18.2)",
-        "optional": true,
-        "file": "CraftPresence-Fabric-1.18.2-Release-1.8.8.jar",
-        "type": "mods",
-        "description": "Completely Customize the way others see you play in Discord!",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 297038,
-        "curseForgeFileId": 3667807,
-        "curseForgeProject": {
-          "id": 297038,
-          "name": "CraftPresence",
-          "authors": [
-            {
-              "id": 197037,
-              "name": "CDAGaming_",
-              "url": "https://www.curseforge.com/members/30881044-cdagaming_?username=cdagaming_"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Completely Customize the way others see you play in Discord!",
-          "categories": [
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Twitch Integration",
-              "slug": "twitch-integration",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/twitch-integration",
-              "dateModified": "2018-04-17T19:53:25.39Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 4671,
-              "iconUrl": "https://media.forgecdn.net/avatars/150/336/636595916053434614.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Cosmetic",
-              "slug": "cosmetic",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
-              "dateModified": "2014-05-08T17:42:35.597Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 424,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 424,
-          "classId": 6,
-          "slug": "craftpresence",
-          "isFeatured": false,
-          "dateModified": "2022-04-24T18:04:38.797Z",
-          "dateCreated": "2018-06-29T03:59:38.017Z",
-          "dateReleased": "2022-04-24T17:48:50.567Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/craftpresence",
-            "wikiUrl": "https://gitlab.com/CDAGaming/CraftPresence/wikis/home",
-            "issuesUrl": "https://gitlab.com/CDAGaming/CraftPresence/issues",
-            "sourceUrl": "https://gitlab.com/CDAGaming/CraftPresence"
-          },
-          "logo": {
-            "id": 159374,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/159/374/256/256/636658415780463602.png",
-            "title": "636658415780463602.png",
-            "url": "https://media.forgecdn.net/avatars/159/374/636658415780463602.png",
-            "modId": 297038
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 231730,
-              "description": "Hypixel Display with Small Icon Modified. Server\nServer MSG Config: mc.hypixel.net;Playing on Hypixel!;hypixel",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/231/730/310/172/serverexample_hypixel.png",
-              "title": "Example Server Display (Hypixel)",
-              "url": "https://media.forgecdn.net/attachments/231/730/serverexample_hypixel.png",
-              "modId": 297038
-            },
-            {
-              "id": 231726,
-              "description": "Display for when on the Main Menu, using Default Settings",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/231/726/310/172/mainmenu.png",
-              "title": "Main Menu Display",
-              "url": "https://media.forgecdn.net/attachments/231/726/mainmenu.png",
-              "modId": 297038
-            },
-            {
-              "id": 231727,
-              "description": "Default Config; In a Singleplayer Game in the Overworld",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/231/727/310/172/sp_overworld.png",
-              "title": "Overworld Display",
-              "url": "https://media.forgecdn.net/attachments/231/727/sp_overworld.png",
-              "modId": 297038
-            },
-            {
-              "id": 231728,
-              "description": "Default Config; In a Singleplayer Game in the Nether",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/231/728/310/172/sp_nether.png",
-              "title": "Nether Display",
-              "url": "https://media.forgecdn.net/attachments/231/728/sp_nether.png",
-              "modId": 297038
-            },
-            {
-              "id": 231729,
-              "description": "Default Config; In a Singleplayer Game in the End",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/231/729/310/172/sp_end.png",
-              "title": "The End Display",
-              "url": "https://media.forgecdn.net/attachments/231/729/sp_end.png",
-              "modId": 297038
-            }
-          ],
-          "mainFileId": 3767450
-        },
-        "curseForgeFile": {
-          "id": 3667807,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "CraftPresence-Fabric v1.8.8 Release (1.18.2)",
-          "fileName": "CraftPresence-Fabric-1.18.2-Release-1.8.8.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2022-02-28T21:40:50.85Z",
-          "fileLength": 864528,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 306612,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 418677992,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 2103280446,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 778269081,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 2568965585,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 1650196604,
-              "name": "lib"
-            },
-            {
-              "fingerprint": 3041381440,
-              "name": "logo.png"
-            },
-            {
-              "fingerprint": 3159755119,
-              "name": "com"
-            },
-            {
-              "fingerprint": 1635871591,
-              "name": "org"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "b0a2869863ba4fb3f9e46f2c9a013b0fbe64ebb7",
-              "algo": 1
-            },
-            {
-              "value": "bf10a18d1029a5c57b5edf6a9cb71e8d",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000002",
-              "gameVersion": "1.18.2",
-              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-              "gameVersionName": "1.18.2"
-            }
-          ],
-          "gameVersions": [
-            "Fabric",
-            "1.18.2"
-          ],
-          "fileFingerprint": 3292897817,
-          "modId": 297038
-        }
-      },
-      {
-        "name": "Cull Less Leaves",
-        "version": "1.0.1",
-        "optional": true,
-        "file": "CullLessLeaves-1.0.1.jar",
-        "type": "mods",
-        "description": "Cull leaves while looking hot!",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "modrinthProject": {
-          "id": "iG6ZHsUV",
-          "slug": "cull-less-leaves",
-          "project_type": "mod",
-          "team": "1ux5WYVX",
-          "title": "Cull Less Leaves",
-          "description": "Cull leaves while looking hot!",
-          "body": "# Cull Less Leaves\nCull Less Leaves is an improved version of [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves).\n\nInstead of leaving just the outer layer of leaves, Cull Less Leaves also renders a certain amount\nof layers defined in the config.\n\n**[Works best with Sodium](https://modrinth.com/mod/sodium)**\n\nLess Culling\n\n![less culling](https://i.imgur.com/GjYFjJV.png)\n\nFast Culling (identical to original cull leaves mod)\n\n![fast culling](https://i.imgur.com/5SPxxYy.png)\n\nSodium Configuration\n\n![sodium config](https://i.imgur.com/JE0uJ99.png)\n\nMod Menu Configuration\n\n![mod menu config](https://i.imgur.com/RYNVj3b.png)\n",
-          "published": "2022-05-01T15:47:57+00:00",
-          "updated": "2022-05-14T14:22:27+00:00",
-          "status": "approved",
-          "license": {
-            "id": "lgpl-3",
-            "name": "GNU Lesser General Public License v3",
-            "url": "https://cdn.modrinth.com/licenses/lgpl-3.txt"
-          },
-          "client_side": "required",
-          "server_side": "unsupported",
-          "categories": [
-            "optimization"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/iG6ZHsUV/icon.png",
-          "issues_url": "https://github.com/isXander/CullLessLeaves/issues",
-          "source_url": "https://github.com/isXander/CullLessLeaves",
-          "discord_url": "https://discord.gg/AJv5ZnNT8q",
-          "donation_urls": [],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "ndxl1iq4",
-          "project_id": "iG6ZHsUV",
-          "author_id": "nyx2i4fB",
-          "name": "1.0.1",
-          "version_number": "1.0.1",
-          "changelog": "- fix fabric loader crash when using other mods with mixin extras\n- make sodium options a bit clearer to people who don't know what Cull Less Leaves is (modpacks)\n- estonian translation - [Madis0](https://github.com/isXander/CullLessLeaves/pull/6)\n- russian translation - [RozeFound](https://github.com/isXander/CullLessLeaves/pull/5)\n",
-          "date_published": "2022-05-14T14:22:27+00:00",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "784f03a763ae04cd4c8df4af74b10f2efbe8f186",
-                "sha512": "8d54bdeabca56a4cf9c8cc648923eee779266fa78e9ceb6b282304f378751aaf4d571493c347454c076affe4c8a8a2a41cb5bed5c46832505f5754a702c5f7ae"
-              },
-              "url": "https://cdn.modrinth.com/data/iG6ZHsUV/versions/1.0.1/CullLessLeaves-1.0.1.jar",
-              "filename": "CullLessLeaves-1.0.1.jar",
-              "primary": true,
-              "size": 33945
-            }
-          ],
-          "dependencies": [
-            {
-              "project_id": "9s6osm5g",
-              "dependency_type": "required"
-            },
-            {
-              "project_id": "mOgUt4GM",
-              "dependency_type": "optional"
-            }
-          ],
-          "game_versions": [
-            "1.18.2"
-          ],
-          "loaders": [
-            "fabric",
-            "quilt"
-          ]
         }
       },
       {
@@ -3834,76 +3096,6 @@
         }
       },
       {
-        "name": "Inspecio",
-        "version": "Inspecio 1.4.1 (1.18)",
-        "optional": true,
-        "file": "inspecio-1.4.1+1.18.jar",
-        "type": "mods",
-        "description": "A Minecraft mod which adds more tooltips.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "modrinthProject": {
-          "id": "a93H3mKU",
-          "slug": "inspecio",
-          "project_type": "mod",
-          "team": "mwJ6E520",
-          "title": "Inspecio",
-          "description": "A Minecraft mod which adds more tooltips.",
-          "body": "# Inspecio\n\n[![GitHub license](https://img.shields.io/github/license/Queerbric/Inspecio?style=flat-square)](https://raw.githubusercontent.com/Queerbric/Inspecio/1.18/LICENSE)\n![Environment: Client](https://img.shields.io/badge/environment-client-1976d2?style=flat-square)\n[![Mod loader: Quilt]][quilt]\n\nBetter and more tooltips on items!\n\n## What's this mod?\n\nInspecio adds new tooltips to items like shulker boxes, filled map, fish bucket, armor, food, banner patterns, etc.\n\nSome of those are just replacement to the vanilla \"text\" tooltip with a more fancy one, others are extra information for the user!\n\nMost of the mod is configurable, some parts can be enabled/disabled to your heart's desire!\n\n## Pictures\n\n#### Armor tooltip\n\n![armor](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/armor.png)\n\n#### Food tooltip\n\n![food](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/golden_carrot.png)\n\n#### Effects tooltips\n\n![potion](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/potion.png)\n\n![suspicious stew](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/suspicious_stew.png)\n\n![beacon](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/beacon.png)\n\n#### Shulker Box tooltips (and other storage blocks)\n\nNormal:\n\n![normal](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/simple_shulker_box_tooltip.png)\n\nColored:\n\n![colored](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/colored_shulker_box_tooltip.png)\n\nCompact:\n\n![compact](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/compact_shulker_box_tooltip.png)\n\n#### Jukebox tooltip\n\n![jukebox](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/jukebox.png)\n\n#### Loot Table Tooltip\n\n![loot_table](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/loot_table.png)\n\n#### Bee Hive Tooltip\n\n![bees](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/beehive.png)\n\n#### Sign Tooltip\n\n![sign](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/sign.png)\n\n#### Banner Pattern\n\n![banner_pattern](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/banner_pattern.png)\n\n#### Campfire\n\n![campfire](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/campfire.png)\n\n#### Filled Map\n\n![map](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/filled_map.png)\n\n#### Entities\n\n##### Armor Stand\n\n![armor_stand](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/armor_stand.png)\n\n##### Bucket of Fish\n\n![tropical_fish_bucket](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/bucket_of_tropical_fish.png)\n\n##### Bucket of Axolotl\n\n![axolotl](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/bucket_of_axolotl.png)\n\n##### Spawn Eggs\n\n![fox_spawn_egg](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/fox_spawn_egg.png)\n\n#### Lodestone Compass\n\nOnly shows up if Advanced Tooltip is enabled (`F3 + H`) and if the config option is enabled.\n![lodestone_compass](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/lodestone_compass.png)\n\n#### Repair Cost\n\nOnly shows up if Advanced Tooltip is enabled (`F3 + H`) and if the config option is enabled.\n![repair_cost](https://raw.githubusercontent.com/Queerbric/Inspecio/1.17/images/repair_cost.png)\n\n## Configuration\n\nThe configuration file of the mod is located in `<minecraft directory>/config/inspecio.json`.\n\nYou can use the command `/inspecio config` to manage configuration.\n\nHere's the default configuration:\n\n```json\n{\n  \"jukebox\": \"fancy\",\n  \"sign\": \"fancy\",\n  \"advanced_tooltips\": {\n    \"repair_cost\": true,\n    \"lodestone_coords\": false\n  },\n  \"filled_map\": {\n    \"enabled\": true,\n    \"show_player_icon\": false\n  },\n  \"food\": {\n    \"hunger\": true,\n    \"saturation\": \"merged\"\n  },\n  \"containers\": {\n    \"campfire\": true,\n    \"storage\": {\n      \"enabled\": true,\n      \"compact\": false,\n      \"loot_table\": true\n    },\n    \"shulker_box\": {\n      \"enabled\": true,\n      \"compact\": false,\n      \"loot_table\": true,\n      \"color\": true\n    }\n  },\n  \"effects\": {\n    \"food\": true,\n    \"hidden_motion\": true,\n    \"beacon\": true,\n    \"potions\": true,\n    \"tipped_arrows\": true,\n    \"spectral_arrow\": true\n  },\n  \"entities\": {\n    \"fish_bucket\": {\n      \"enabled\": true,\n      \"always_show_name\": false,\n      \"spin\": true\n    },\n    \"spawn_egg\": {\n      \"enabled\": true,\n      \"always_show_name\": false,\n      \"spin\": true\n    },\n    \"pufferfish_puff_state\": 2,\n    \"armor_stand\": {\n      \"enabled\": true,\n      \"always_show_name\": false,\n      \"spin\": true\n    },\n    \"bee\": {\n      \"enabled\": true,\n      \"always_show_name\": false,\n      \"spin\": true\n    }\n  },\n  \"armor\": true,\n  \"banner_pattern\": true\n}\n```\n\nHere's a list of each configuration entries and what they do:\n\n - `armor` (`bool`) - if `true` then displays the armor bar on armor items, else `false`.\n - `banner_pattern` (`bool`) - if `true` then displays the pattern in the tooltip of banner patterns, else `false`.\n - `advanced_tooltips`\n   - `repair_cost` (`bool`) - if `true`, will display the repair cost value if the game has advanced tooltips enabled (F3 + H).\n   - `lodestone_coords` (`bool`) - if `true`, will display the lodestone coordinates on lodestone compass if the game has advanced tooltips enabled (F3 + H).\n - `containers`\n   - `campfire` (`bool`) - if `true` then displays a special tooltip on campfires which hold custom NBT.\n   - `storage`\n     - `enabled` (`bool`) - `true` if the inventory of storage items like chests, barrels, etc. should be shown in the tooltip, else `false`.\n     - `compact` (`bool`) - `true` if the inventory should be compacted to take as little space as possible, else `false`.\n     - `loot_table` (`bool`) - `true` if the loot table identifier should be displayed in the tooltip if specified, else `false`.\n   - `shulker_box`\n     - `enabled` (`bool`) - `true` if the inventory of shulker boxes should be shown in the tooltip, else `false`.\n     - `compact` (`bool`) - `true` if the inventory should be compacted to take as little space as possible, else `false`.\n     - `loot_table` (`bool`) - `true` if the loot table identifier should be displayed in the tooltip if specified, else `false`.\n     - `color` (`bool`) - `true` if the inventory tooltip should be colored the same as the shulker box, else `false`.\n - `effects`\n   - `potions` (`bool`) - if `true` then replaces the effect tooltips with a fancy one on potion items, else `false`.\n   - `tipped_arrows` (`bool`) - if `true` then replaces the effect tooltips with a fancy one on tipped arrows, else `false`.\n   - `spectral_arrow` (`bool`) - if `true` then replaces the effect tooltips with a fancy one on spectral arrow item, else `false`.\n   - `food` (`bool`) - if `true` then adds effect tooltips on food items, else `false`.\n   - `hidden_motion` (`bool`) - if `true` then uses obfuscated text for hidden effect tooltips, else `false`.\n   - `beacon` (`bool`) - if `true` then add a tooltip with the primary and secondary effects (if they exist), otherwise it does nothing.\n - `entities`\n   - `armor_stand`\n      - `enabled` (`bool`) - if `true` if armor stand tooltip should be displayed, else `false`.\n      - `always_show_name` (`bool`) - if `true` then always show name of armor stand, else `false` and use the CTRL key instead.\n      - `spin` (`bool`) - `true` if the armor stand spin in the tooltip, else `false`\n   - `bee`\n     - `enabled` (`bool`) - if `true` then displays bees if present in the beehive tooltip, else `false`.\n     - `always_show_name` (`bool`) - if `true` then always show name of bees, else `false` and use the CTRL key instead.\n     - `spin` (`bool`) - `true` if the bees spin in the tooltip, else `false`\n   - `fish_bucket`\n     - `enabled` (`bool`) - `true` if fish bucket tooltips should display the entity they hold, else `false`.\n     - `spin` (`bool`) - `true` if the entity spins in the tooltip, else `false`.\n   - `spawn_egg`\n     - `enabled` (`bool`) - `true` if spawn egg tooltips should display the entity they hold, else `false`.\n     - `always_show_name` (`bool`) - `true` if the name of the hold entity should always be shown, else `false`.\n     - `spin` (`bool`) - `true` if the entity spins in the tooltip, else `false`.\n   - `pufferfish_puff_state` (`int`) - the pufferfish puff state, between 0 and 2 inclusive.\n - `filled_map`\n   - `enabled` (`bool`) - `true` if filled map tooltips should display the map, else `false`.\n   - `show_player_icon` (`bool`) - `true` if show the player icon on filled map tooltips, else `false`.\n - `food`\n   - `hunger` (`bool`) - `true` if hunger bar should be displayed on food items, else `false`.\n   - `saturation` (`string`) - `\"disabled\"` does nothing, `\"merged\"` adds the saturation bar as an outline to the hunger bar, `\"separated\"` adds its own saturation bar.\n - `jukebox` (`string`) - `\"disabled\"` does nothing, `\"fast\"` will add the inserted disc name if possible in the tooltip of jukeboxes, `\"fancy\"` will display the disc item as well.\n - `sign` (`string`) - `\"disabled\"` does nothing, `\"fast\"` will add the sign content as text tooltip if possible, `\"fancy\"` will add a fancy sign tooltip if possible.\n\n[quilt]: https://quiltmc.org\n[Mod loader: Quilt]: https://img.shields.io/badge/modloader-Quilt-9115ff?style=flat-square\n",
-          "body_url": "https://cdn.modrinth.com/data/a93H3mKU/description.md",
-          "published": "2020-12-24T11:50:04+00:00",
-          "updated": "2022-04-20T17:25:58+00:00",
-          "status": "approved",
-          "license": {
-            "id": "lgpl-3",
-            "name": "GNU Lesser General Public License v3",
-            "url": "https://cdn.modrinth.com/licenses/lgpl-3.txt"
-          },
-          "client_side": "required",
-          "server_side": "optional",
-          "categories": [
-            "utility",
-            "decoration"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/a93H3mKU/icon.png",
-          "issues_url": "https://github.com/Queerbric/Inspecio/issues",
-          "source_url": "https://github.com/Queerbric/Inspecio",
-          "donation_urls": [],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "6sfabi0J",
-          "project_id": "a93H3mKU",
-          "author_id": "rRnTb0fG",
-          "name": "Inspecio 1.4.1 (1.18)",
-          "version_number": "1.4.1+1.18",
-          "changelog": " - Fix a minor issue in the Quilt metadata manifest JSON.\n",
-          "date_published": "2022-04-20T17:25:59+00:00",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "a64e82ce12ff92eb84fa660200be1f12a9d48b3e6f54807093b6ac7313d09007e07b9531da4e9c1eb2975b76275cb7965e6a8098d371b62a2ca1390893a85a4a",
-                "sha1": "886b2d77f495b8725dbd8557fcb6437227e354f9"
-              },
-              "url": "https://cdn.modrinth.com/data/a93H3mKU/versions/1.4.1+1.18/inspecio-1.4.1%2B1.18.jar",
-              "filename": "inspecio-1.4.1+1.18.jar",
-              "primary": true,
-              "size": 300412
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.18.2"
-          ],
-          "loaders": [
-            "quilt"
-          ]
-        }
-      },
-      {
         "name": "Interactic",
         "version": "[1.18.2] Interactic - 0.1.10",
         "optional": true,
@@ -4749,6 +3941,63 @@
           ],
           "fileFingerprint": 1459910646,
           "modId": 325492
+        },
+        "modrinthProject": {
+          "id": "YfOlc91N",
+          "slug": "light-overlay",
+          "project_type": "mod",
+          "team": "mN9nELbI",
+          "title": "Light Overlay",
+          "description": "A simple mod to provide users with NEI-like light level overlay.",
+          "body": "# A yellow cross means that mobs can spawn at night, a red cross means that mobs can spawn anytime.<br>A blue cross means that mobs can spawn if there is a spawner (1.18 only)\n\nThis mod provides users with a NEI-like light overlay.\n\nThis mod requires Rift, Forge or Fabric. (Fabric API, Cloth Config (Fabric) and Architectury are required for Fabric, Cloth Config (Forge) and Architectury are required for Forge)\n\nPress **F7** to toggle the light overlay, configurable through Controls Settings.\n\n### Config\n- Rift 1.13.2: Config Screen Not Available\n- Forge 1.13.x: Config Screen Not Available\n- Forge 1.14+: Mod List > Config\n- Fabric 1.14+: Mod Menu > Config",
+          "published": "2022-06-11T19:38:37+00:00",
+          "updated": "2022-06-14T14:34:00+00:00",
+          "status": "approved",
+          "license": {
+            "id": "apache",
+            "name": "Apache License 2.0",
+            "url": "https://cdn.modrinth.com/licenses/apache.txt"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/YfOlc91N/icon.png",
+          "issues_url": "https://github.com/shedaniel/LightOverlay-Fabric/issues",
+          "source_url": "https://github.com/shedaniel/LightOverlay-Fabric",
+          "discord_url": "https://discord.gg/Vs9AVkxjYY",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "f74N4LqG",
+          "project_id": "YfOlc91N",
+          "author_id": "1Hsaf75m",
+          "name": " [Fabric 1.18.2] v6.0.5",
+          "version_number": "6.0.5",
+          "changelog": "Transferred automatically from https://www.curseforge.com/minecraft/mc-mods/light-overlay/files/3668243",
+          "date_published": "2022-06-11T19:41:13+00:00",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "95dfec5d41e5d6d376ec2700f7cfbe9fd3dc0314f7c8f90948b4f95db54d1ceead71d6cc5d6b932b43a60efcc97f462d06f780a9bcc2f7524330b74d8b4408ef",
+                "sha1": "1c4e17e1557978bb9321cdcf449329a3cd13cfd6"
+              },
+              "url": "https://cdn.modrinth.com/data/YfOlc91N/versions/6.0.5/light-overlay-6.0.5.jar",
+              "filename": "light-overlay-6.0.5.jar",
+              "primary": true,
+              "size": 62202
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.18.2"
+          ],
+          "loaders": [
+            "fabric"
+          ]
         }
       },
       {
@@ -5267,82 +4516,6 @@
           ],
           "fileFingerprint": 1836620772,
           "modId": 303119
-        }
-      },
-      {
-        "name": "MidnightLib",
-        "version": "MidnightLib 0.4.0 - 1.17/1.18",
-        "optional": true,
-        "file": "midnightlib-0.4.0.jar",
-        "type": "mods",
-        "description": "Common library with a built-in configuration system",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "modrinthProject": {
-          "id": "codAaoxh",
-          "slug": "midnightlib",
-          "project_type": "mod",
-          "team": "ANsuWAaP",
-          "title": "MidnightLib",
-          "description": "Common library with a built-in configuration system",
-          "body": "<center>MidnightLib is a library that provides common utils and a configuration system for mods.</br>\nIt is currently only in a beta state, since right now it's pretty much only the config and cosmetics, but it's in active development.</br>Mod developers are allowed and encouraged to include it into their mods.<br />Every feature, including cosmetics, can be toggled in the library's own config screen/file.\n<p style=\"text-align: center;\"><img src=\"https://i.imgur.com/FxSzto3.png\" alt=\"Example configuration screen\" height=\"532\" />\n<center><img src=\"https://github.com/Motschen/Assets/blob/main/quilt+fabric-banner.png?raw=true\" alt=\"\" width=\"586\" height=\"56\" />",
-          "published": "2021-06-01T14:51:21+00:00",
-          "updated": "2022-05-18T18:25:22+00:00",
-          "status": "approved",
-          "license": {
-            "id": "mit",
-            "name": "MIT License",
-            "url": "https://cdn.modrinth.com/licenses/mit.txt"
-          },
-          "client_side": "optional",
-          "server_side": "optional",
-          "categories": [
-            "utility",
-            "misc",
-            "library"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/codAaoxh/icon.png",
-          "issues_url": "https://github.com/TeamMidnightDust/MidnightLib/issues/",
-          "source_url": "https://github.com/TeamMidnightDust/MidnightLib",
-          "wiki_url": "https://github.com/TeamMidnightDust/MidnightLib/wiki",
-          "discord_url": "https://discord.gg/jAGnWYHm3r",
-          "donation_urls": [],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "enS8Fiz0",
-          "project_id": "codAaoxh",
-          "author_id": "6YsSV9eP",
-          "name": "MidnightLib 0.4.0 - 1.17/1.18",
-          "version_number": "0.4.0",
-          "changelog": "Add support for hexadecimal colors in MidnightConfig  \nAdd Client and Server annotations to hide config options on irrelevant sides  \nRemove any reference to Log4j completely to be future-proof  \nCode cleanup",
-          "date_published": "2022-02-22T12:05:42+00:00",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "bad7a3239314c297a1793b96a8688ba71b0b928e",
-                "sha512": "8c31ae825a1fd6c336df267c633a0dc9a93f4b392dfe1bfb7e7b2f54b1af515b38acceaeb6255664217eb0a65f4d385d44dac6dcb533cf6f017e6563be9a0e4f"
-              },
-              "url": "https://cdn.modrinth.com/data/codAaoxh/versions/0.4.0/midnightlib-0.4.0.jar",
-              "filename": "midnightlib-0.4.0.jar",
-              "primary": true,
-              "size": 59709
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.17.1",
-            "1.18",
-            "1.18.1",
-            "1.18.2"
-          ],
-          "loaders": [
-            "fabric",
-            "quilt"
-          ]
         }
       },
       {
@@ -6357,482 +5530,6 @@
           "loaders": [
             "fabric"
           ]
-        }
-      },
-      {
-        "name": "Puzzle",
-        "version": "Puzzle 1.2.1 - 1.18",
-        "optional": true,
-        "file": "puzzle-1.2.1.jar",
-        "type": "mods",
-        "description": "Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "modrinthProject": {
-          "id": "3IuO68q1",
-          "slug": "puzzle",
-          "project_type": "mod",
-          "team": "7knsrjtq",
-          "title": "Puzzle",
-          "description": "Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives.",
-          "body": "<center><div class=\"mod-content\" style=\"text-align: center;\" data-v-e8c4e07a=\"\">\n<div class=\"markdown-body\" data-v-19b7907e=\"\" data-v-e8c4e07a=\"\">\n<p><span style=\"font-size: 10px;\"><em>Context: OptiFine was a big part of Minecraft modding for a long time and has been causing errors with mods this entire time, it's closed source nature making it especially hard to work with as a mod developer. For that reason, a lot of alternatives have been created. But usually they only replicate one specific feature of OptiFine, meaning the user has to install a lot of mods and configure them by searching for the specific mod in ModMenu.</em></span></p>\n<ul>\n<li>The first problem is relatively easy to solve, by either downloading a modpack such as <a href=\"https://www.curseforge.com/minecraft/modpacks/opalfab-optifine-alternatives-on-fabric\">OpalFab</a>&nbsp;or <a href=\"https://www.curseforge.com/minecraft/modpacks/fabulously-optimized\">Fabulously Optimized</a> or using <a href=\"https://lambdaurora.dev/optifine_alternatives\">Lambda's fantastic list of alternative mods</a></li>\n<li>Puzzle was created to solve the latter by providing a united config for OptiFine replacement mods, built-in support for the most relevant alternatives and a API for other mods to take advantage of.</li>\n<li>Due to many OptiFine features still having no replacement mod, Puzzle also adds certain OptiFine features on it's own, like resourcepack-provided splash screens</li>\n<li>We also offer some new, innovative features to resourcepack developers, such as unlocked rotation values and bigger size for JSON-models. The configuration screen can be found in the vanilla options screen, as well as ModMenu. &lrm;</li>\n</ul>\n<p><span style=\"font-size: 8px;\"><img src=\"https://i.imgur.com/CCx9WCq.png\" alt=\"The Puzzle Resource Settings Screen\" width=\"655\" /></span></p>\n<p><span style=\"font-size: 8px;\">&nbsp;</span><br />&thinsp; Currently, there is included support for the following mods:</p>\n<ul>\n<li><a href=\"https://curseforge.com/minecraft/mc-mods/cull-leaves\">Cull Leaves</a></li>\n<li><a href=\"https://curseforge.com/minecraft/mc-mods/irisshaders\">Iris</a></li>\n<li><a href=\"https://curseforge.com/minecraft/mc-mods/continuity\">Continuity</a></li>\n<li><a href=\"https://curseforge.com/minecraft/mc-mods/lambdynamiclights\">LambDynamicLights</a></li>\n<li><a href=\"https://curseforge.com/minecraft/mc-mods/lambdabettergrass\">LambdaBetterGrass</a></li>\n<li><a href=\"https://curseforge.com/minecraft/mc-mods/cit-resewn\">CITResewn</a></li>\n<li><a href=\"https://curseforge.com/minecraft/mc-mods/custom-entity-models-cem\">Custom Entity Models</a></li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric\">Entity Texture Features</a></li>\n</ul>\n</div>\n</div>\n<div class=\"mod-content\" style=\"text-align: center;\" data-v-e8c4e07a=\"\">\n<div class=\"markdown-body\" data-v-19b7907e=\"\" data-v-e8c4e07a=\"\">&nbsp;</div>\n<p><img src=\"https://github.com/Motschen/Assets/blob/main/quilt+fabric-banner.png?raw=true\" alt=\"\" height=\"56\" /></p>\n</div>\n<div id=\"gtx-trans\" style=\"position: absolute; left: 739px; top: 18px;\">&nbsp;</div>",
-          "published": "2022-01-02T20:52:24+00:00",
-          "updated": "2022-05-31T15:48:54+00:00",
-          "status": "approved",
-          "license": {
-            "id": "mit",
-            "name": "MIT License",
-            "url": "https://cdn.modrinth.com/licenses/mit.txt"
-          },
-          "client_side": "required",
-          "server_side": "unsupported",
-          "categories": [
-            "utility",
-            "misc",
-            "library"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/3IuO68q1/icon.png",
-          "issues_url": "https://github.com/PuzzleMC/Puzzle/issues",
-          "source_url": "https://github.com/PuzzleMC/Puzzle",
-          "discord_url": "https://discord.gg/rhunFhYgdF",
-          "donation_urls": [],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "J4sloxua",
-          "project_id": "3IuO68q1",
-          "author_id": "6YsSV9eP",
-          "name": "Puzzle 1.2.1 - 1.18",
-          "version_number": "1.2.1",
-          "changelog": "Fix crash with CITResewn 1.0.0+",
-          "date_published": "2022-03-18T13:48:28+00:00",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "be946b8c5a8b5499b18b89fdf3c14c8c708b056f",
-                "sha512": "569b1b780a86fd4fe1ec404232a2bbbef08d97309f418b954d82099ecb6d369b0787c30504bcf692fb92a86688fb0b3e25a4935d3ba0594cc9c80060d69be7b6"
-              },
-              "url": "https://cdn.modrinth.com/data/3IuO68q1/versions/1.2.1/puzzle-1.2.1.jar",
-              "filename": "puzzle-1.2.1.jar",
-              "primary": true,
-              "size": 126684
-            }
-          ],
-          "dependencies": [
-            {
-              "version_id": "enS8Fiz0",
-              "dependency_type": "required"
-            },
-            {
-              "version_id": "BpTF8BtN",
-              "dependency_type": "required"
-            }
-          ],
-          "game_versions": [
-            "1.18",
-            "1.18.1",
-            "1.18.2"
-          ],
-          "loaders": [
-            "fabric",
-            "quilt"
-          ]
-        }
-      },
-      {
-        "name": "Roughly Enough Resources",
-        "version": "[Fabric 1.18.2] v2.5.0",
-        "optional": true,
-        "file": "rer-2.5.0.jar",
-        "type": "mods",
-        "description": "Worldgen support for Roughly Enough Items",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 325625,
-        "curseForgeFileId": 3736226,
-        "curseForgeProject": {
-          "id": 325625,
-          "name": "Roughly Enough Resources",
-          "authors": [
-            {
-              "id": 228755,
-              "name": "theorbagain",
-              "url": "https://www.curseforge.com/members/100088504-theorbagain?username=theorbagain"
-            },
-            {
-              "id": 270845,
-              "name": "shedaniel",
-              "url": "https://www.curseforge.com/members/32851078-shedaniel?username=shedaniel"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Worldgen support for Roughly Enough Items",
-          "categories": [
-            {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Ores and Resources",
-              "slug": "world-ores-resources",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
-              "dateModified": "2014-05-08T17:36:41.233Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 408,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
-              "parentCategoryId": 406,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 423,
-          "classId": 6,
-          "slug": "roughly-enough-resources",
-          "isFeatured": false,
-          "dateModified": "2022-04-06T07:01:40.86Z",
-          "dateCreated": "2019-06-28T22:08:46.777Z",
-          "dateReleased": "2022-04-06T06:55:34.827Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources",
-            "issuesUrl": "https://github.com/theorbtwo/RoughlyEnoughResources/issues",
-            "sourceUrl": "https://github.com/theorbtwo/RoughlyEnoughResources"
-          },
-          "logo": {
-            "id": 208296,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/208/296/256/256/636973565268245966.png",
-            "title": "636973565268245966.png",
-            "url": "https://media.forgecdn.net/avatars/208/296/636973565268245966.png",
-            "modId": 325625
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 255498,
-              "description": "Just the \"logo\", but bigger",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/255/498/310/172/screenshot.png",
-              "title": "Just the \"logo\", but bigger",
-              "url": "https://media.forgecdn.net/attachments/255/498/screenshot.png",
-              "modId": 325625
-            }
-          ],
-          "mainFileId": 3736226
-        },
-        "curseForgeFile": {
-          "id": 3736226,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "[Fabric 1.18.2] v2.5.0",
-          "fileName": "rer-2.5.0.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2022-04-05T16:57:00.677Z",
-          "fileLength": 81566,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 319057,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 310111,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1594297655,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 3728856645,
-              "name": "roughlyenoughresources.mixins.json"
-            },
-            {
-              "fingerprint": 3298190551,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 1383256899,
-              "name": "rer-common-refmap.json"
-            },
-            {
-              "fingerprint": 1158728435,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 3870079649,
-              "name": "uk"
-            },
-            {
-              "fingerprint": 2208698069,
-              "name": "architectury_inject_RoughlyEnoughResources_common_33c244493d484f75a04aa92d63af2417_829ad3778e5b732c3f933fec8f1d0fa71546ac1896985c9750e32c000c2d0607rer250devjar"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "d645beadf4b46b1c0b4921b24adf81887b6566d3",
-              "algo": 1
-            },
-            {
-              "value": "7ba48b9a4c90b52d750245452be3dff2",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000002",
-              "gameVersion": "1.18.2",
-              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-              "gameVersionName": "1.18.2"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018",
-              "gameVersion": "1.18",
-              "gameVersionReleaseDate": "2021-08-12T00:00:00Z",
-              "gameVersionName": "1.18-Snapshot"
-            }
-          ],
-          "gameVersions": [
-            "Fabric",
-            "1.18.2",
-            "1.18-Snapshot"
-          ],
-          "fileFingerprint": 2536337238,
-          "modId": 325625
-        }
-      },
-      {
-        "name": "Roughly Enough Items Fabric/Forge (REI)",
-        "version": "[Fabric 1.18.2] v8.2.471",
-        "optional": true,
-        "file": "RoughlyEnoughItems-8.2.471.jar",
-        "type": "mods",
-        "description": "Clean and Customizable. An easy way to browse recipes. Alternative to JEI Just Enough Items.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 310111,
-        "curseForgeFileId": 3816876,
-        "curseForgeProject": {
-          "id": 310111,
-          "name": "Roughly Enough Items Fabric/Forge (REI)",
-          "authors": [
-            {
-              "id": 211550,
-              "name": "shedaniel",
-              "url": "https://www.curseforge.com/members/32851078-shedaniel?username=shedaniel"
-            }
-          ],
-          "gameId": 432,
-          "summary": "Clean and Customizable. An easy way to browse recipes. Alternative to JEI Just Enough Items.",
-          "categories": [
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 423,
-          "classId": 6,
-          "slug": "roughly-enough-items",
-          "isFeatured": false,
-          "dateModified": "2022-06-04T15:39:41.393Z",
-          "dateCreated": "2018-12-30T12:43:29.877Z",
-          "dateReleased": "2022-06-04T11:26:23.467Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/shedaniel/RoughlyEnoughItems/issues",
-            "sourceUrl": "https://github.com/shedaniel/RoughlyEnoughItems"
-          },
-          "logo": {
-            "id": 282025,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/282/25/256/256/637287701215436754.png",
-            "title": "637287701215436754.png",
-            "url": "https://media.forgecdn.net/avatars/282/25/637287701215436754.png",
-            "modId": 310111
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 3816876
-        },
-        "curseForgeFile": {
-          "id": 3816876,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "[Fabric 1.18.2] v8.2.471",
-          "fileName": "RoughlyEnoughItems-8.2.471.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2022-06-04T11:26:23.467Z",
-          "fileLength": 1778445,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 306612,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 348521,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 419699,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 483751260,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 2369514943,
-              "name": "roughlyenoughitems"
-            },
-            {
-              "fingerprint": 3581243974,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 1035620197,
-              "name": "roughlyenoughitems.changes.json"
-            },
-            {
-              "fingerprint": 3994964994,
-              "name": "LICENSE"
-            },
-            {
-              "fingerprint": 3286453387,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 2023461844,
-              "name": "rei.mixins.json"
-            },
-            {
-              "fingerprint": 1972081312,
-              "name": "icon.png"
-            },
-            {
-              "fingerprint": 1676712443,
-              "name": "roughlyenoughitems.accessWidener"
-            },
-            {
-              "fingerprint": 939300529,
-              "name": "RoughlyEnoughItems-fabric-refmap.json"
-            },
-            {
-              "fingerprint": 1170613486,
-              "name": "me"
-            },
-            {
-              "fingerprint": 4130382901,
-              "name": "architectury_inject_RoughlyEnoughItems_api_1c1c8494b6f74aaba6ad8f9b266502b1_670c45b878e5609f0f7a61dea02fbe3050d2b85cead6773af4dfa576f492bff4RoughlyEnoughItems82471devjar"
-            },
-            {
-              "fingerprint": 4275230486,
-              "name": "architectury_inject_RoughlyEnoughItems_runtime_6b37418a06ec439e9cfc8e2c81691e6e_c428a605e4cb18535d9f57b29cde0a497f4c47bfd292ad6f9479476dd29c4b88RoughlyEnoughItems82471devjar"
-            },
-            {
-              "fingerprint": 2198814093,
-              "name": "architectury_inject_RoughlyEnoughItems_defaultplugin_aa963d75302d411cb35e8784490a3d26_c5f5617d323bac3c3971498db0ed12f9de213a8a57cbc72cc4925d547eef3913RoughlyEnoughItems82471devjar"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "eb02400c1197557fc29bbd54dc212821a9e71ffe",
-              "algo": 1
-            },
-            {
-              "value": "4d2f6bd50334fad370ee20d93ab6c709",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018.0000000002",
-              "gameVersion": "1.18.2",
-              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
-              "gameVersionName": "1.18.2"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000018",
-              "gameVersion": "1.18",
-              "gameVersionReleaseDate": "2021-08-12T00:00:00Z",
-              "gameVersionName": "1.18-Snapshot"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
-              "gameVersionName": "Quilt"
-            }
-          ],
-          "gameVersions": [
-            "Fabric",
-            "1.18.2",
-            "1.18-Snapshot",
-            "Quilt"
-          ],
-          "fileFingerprint": 2026892255,
-          "modId": 310111
         }
       },
       {
@@ -9381,6 +8078,84 @@
           ],
           "fileFingerprint": 1019026871,
           "modId": 374274
+        },
+        "modrinthProject": {
+          "id": "WwbubTsV",
+          "slug": "yosbr",
+          "project_type": "mod",
+          "team": "GBU3scgV",
+          "title": "Your Options Shall Be Respected (YOSBR)",
+          "description": "Your options shall be respected.",
+          "body": "Your options shall be respected, brought to you by the \"Association for Options Rights\" gang.\n\nThis mod has one simple function, to provide default options if the corresponding option file doesn't exist.\n\n### Example 1 (options.txt)\n\nCreate /config/yosbr/options.txt\nPut default content in it\nLaunch game! YOSBR will copy /config/yosbr/options.txt into /options.txt if it doesn't exist\n### Example 2 (config/roughlyenoughitems/config.json5)\n\nCreate /config/yosbr/config/roughlyenoughitems/config.json5\nPut default content in it\nLaunch game! YOSBR will copy /config/yosbr/config/roughlyenoughitems/config.json5 into /config/roughlyenoughitems/config.json5 if it doesn't exist\n\nRequires Fabric Loader. (API not required)",
+          "published": "2022-06-12T15:08:38+00:00",
+          "updated": "2022-06-12T15:08:43+00:00",
+          "status": "approved",
+          "license": {
+            "id": "custom",
+            "name": "Custom License",
+            "url": "https://github.com/shedaniel/your-options-shall-be-respected/blob/master/LICENSE"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/WwbubTsV/icon.png",
+          "issues_url": "https://github.com/shedaniel/your-options-shall-be-respected/issues",
+          "source_url": "https://github.com/shedaniel/your-options-shall-be-respected",
+          "discord_url": "https://discord.gg/Vs9AVkxjYY",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "dStXfyg3",
+          "project_id": "WwbubTsV",
+          "author_id": "1Hsaf75m",
+          "name": "[Fabric 1.14 - 1.19] v0.1.1",
+          "version_number": "0.1.1",
+          "changelog": "Transferred automatically from https://www.curseforge.com/minecraft/mc-mods/yosbr/files/2934596",
+          "date_published": "2022-06-12T15:08:43+00:00",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "0643830cab952fc96872702e681b863b550c8530",
+                "sha512": "8edd47fcda376658b5fb8bfb333c441ecaa1fe834d3deaa6b9895bb9c7dfc004d2e8ccc12a41e4b79f10e6634824837b5536c3bb81289e137abc6079d1c871c3"
+              },
+              "url": "https://cdn.modrinth.com/data/WwbubTsV/versions/0.1.1/yosbr-0.1.1.jar",
+              "filename": "yosbr-0.1.1.jar",
+              "primary": true,
+              "size": 19206
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.14",
+            "1.14.1",
+            "1.14.2",
+            "1.14.3",
+            "1.14.4",
+            "1.15",
+            "1.15.1",
+            "1.15.2",
+            "1.16",
+            "1.16.1",
+            "1.16.2",
+            "1.16.3",
+            "1.16.4",
+            "1.16.5",
+            "1.17",
+            "1.17.1",
+            "1.18",
+            "1.18.1",
+            "1.18.2",
+            "1.19",
+            "1.8.9"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
         }
       },
       {
@@ -9508,17 +8283,6 @@
         "skipped": false
       },
       {
-        "name": "Mc122477Fix-mc1.18.jar",
-        "version": "Unknown",
-        "optional": true,
-        "file": "Mc122477Fix-mc1.18.jar",
-        "type": "mods",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false
-      },
-      {
         "name": "Pl3xMap",
         "version": "1.3",
         "optional": true,
@@ -9564,7 +8328,81 @@
         "disabled": false,
         "userAdded": true,
         "wasSelected": true,
-        "skipped": false
+        "skipped": false,
+        "modrinthProject": {
+          "id": "9s6osm5g",
+          "slug": "cloth-config",
+          "project_type": "mod",
+          "team": "z9omIQMN",
+          "title": "Cloth Config API",
+          "description": "Configuration Library for Minecraft Mods",
+          "body": "[<img src=\"https://i.imgur.com/ZEORx0F.png\" alt=\"\" width=\"225\"/>](https://discord.gg/Vs9AVkxjYY) [<img src=\"https://i.imgur.com/LrVLC2a.png\" alt=\"\" width=\"201\"/>](https://www.patreon.com/shedaniel)\n\nCloth Config API is a config screen api.\n\n### Developers Wiki\n[https://shedaniel.gitbook.io/cloth-config/](https://shedaniel.gitbook.io/cloth-config/)\n\nNeed a server to play with friends? Or don't know how to setup one? Just rent a server that is already configured!\n\n[<img src=\"https://www.bisecthosting.com/images/logos/dark_text@1538x500.png\" alt=\"\" width=\"400\"/>](https://www.bisecthosting.com/)\n\nClick on the picture above, select plan (at least 4 GB), use my code **shedaniel** to get **25% off** your first month and enjoy playing with your friends!\n\n![](https://i.imgur.com/AkpzyeC.png)",
+          "published": "2022-04-21T10:29:41+00:00",
+          "updated": "2022-06-10T17:53:49+00:00",
+          "status": "approved",
+          "license": {
+            "id": "lgpl-3",
+            "name": "GNU Lesser General Public License v3",
+            "url": "https://cdn.modrinth.com/licenses/lgpl-3.txt"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/9s6osm5g/icon.png",
+          "issues_url": "https://github.com/shedaniel/ClothConfig/issues",
+          "source_url": "https://github.com/shedaniel/ClothConfig/",
+          "wiki_url": "https://shedaniel.gitbook.io/cloth-config/",
+          "discord_url": "https://discord.gg/Vs9AVkxjYY",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/shedaniel"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/9s6osm5g/images/baa0dc605540953f5262f24109ec7837c090a04c.png",
+              "featured": true,
+              "title": "Example Config Screen",
+              "created": "2022-06-10T19:45:30+00:00"
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "d1D40LRO",
+          "project_id": "9s6osm5g",
+          "author_id": "1Hsaf75m",
+          "name": "[Fabric 1.18.x] v6.2.62",
+          "version_number": "6.2.62",
+          "changelog": "Update Basic Maths",
+          "date_published": "2022-06-10T17:49:35+00:00",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "bc0f07805823fdab5c7376d8d2b314c1b109d402",
+                "sha512": "1d30dbc59ac2a8668e5dd3bb7a6d74a8d243cf958d16f4d55670db270414842dc3884687c847cc9815605695ee2403e933f010a17c7ff5e296de43a55872ad0a"
+              },
+              "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.62/cloth-config-fabric-6.2.62.jar",
+              "filename": "cloth-config-fabric-6.2.62.jar",
+              "primary": true,
+              "size": 1122859
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.18",
+            "1.18.1",
+            "1.18.2"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
       },
       {
         "name": "Colormatic",
@@ -9624,7 +8462,84 @@
         "disabled": false,
         "userAdded": true,
         "wasSelected": true,
-        "skipped": false
+        "skipped": false,
+        "modrinthProject": {
+          "id": "Ha28R6CL",
+          "slug": "fabric-language-kotlin",
+          "project_type": "mod",
+          "team": "tn8Zu9Q7",
+          "title": "Fabric Language Kotlin",
+          "description": "Fabric Language Kotlin",
+          "body": "This is a mod that enables usage of the Kotlin programming language for Fabric mods.\n\nNote: This does not add content! This is a dependency other mods use for compatibilty.\n\nThis mod works independently of the version of Minecraft used, as it only depends on Fabric Loader being available.\n\nFor modders: See -> https://github.com/FabricMC/fabric-language-kotlin#usage",
+          "published": "2021-08-25T19:14:27+00:00",
+          "updated": "2022-06-09T19:03:41+00:00",
+          "status": "approved",
+          "license": {
+            "id": "apache",
+            "name": "Apache License 2.0",
+            "url": "https://cdn.modrinth.com/licenses/apache.txt"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/Ha28R6CL/icon.png",
+          "issues_url": "https://github.com/FabricMC/fabric-language-kotlin/issues",
+          "source_url": "https://github.com/FabricMC/fabric-language-kotlin/",
+          "wiki_url": "https://fabricmc.net/wiki/",
+          "discord_url": "https://discord.gg/v6v4pMv",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "iAzZrqan",
+          "project_id": "Ha28R6CL",
+          "author_id": "JZA4dW8o",
+          "name": "Fabric Language Kotlin 1.7.4+kotlin.1.6.21",
+          "version_number": "1.7.4+kotlin.1.6.21",
+          "changelog": "",
+          "date_published": "2022-06-07T17:57:18+00:00",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "afb950a13b00b028f4914b61d827f0b8ae3ec3d59c01f78cf87c52a8f658b08d26b89d61057e8209294b8606a16dea2616e6ecff50a87efa57f155b522091546",
+                "sha1": "57581e800d250c31aed8bc17fa7c2af9786c26a3"
+              },
+              "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/1.7.4+kotlin.1.6.21/fabric-language-kotlin-1.7.4%2Bkotlin.1.6.21.jar",
+              "filename": "fabric-language-kotlin-1.7.4+kotlin.1.6.21.jar",
+              "primary": true,
+              "size": 6079386
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.14",
+            "1.14.1",
+            "1.14.2",
+            "1.14.3",
+            "1.14.4",
+            "1.15",
+            "1.15.1",
+            "1.15.2",
+            "1.16",
+            "1.16.1",
+            "1.16.2",
+            "1.16.3",
+            "1.16.4",
+            "1.16.5",
+            "1.17",
+            "1.17.1",
+            "1.18",
+            "1.18.1",
+            "1.18.2",
+            "1.19"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       },
       {
         "name": "FabricSkyBoxes",
@@ -9887,18 +8802,6 @@
         }
       },
       {
-        "name": "Illuminations",
-        "version": "1.10.3",
-        "optional": true,
-        "file": "illuminations-1.10.3.jar",
-        "type": "mods",
-        "description": "Fireflies, other illuminations to make your world more enjoyable in darkness and player cosmetics.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false
-      },
-      {
         "name": "inspecio-1.4.0+1.18.jar",
         "version": "Unknown",
         "optional": true,
@@ -9986,18 +8889,6 @@
         "file": "krypton-0.1.10-SNAPSHOT.jar",
         "type": "mods",
         "description": "A Fabric mod that optimizes the Minecraft networking stack and entity tracker.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false
-      },
-      {
-        "name": "Litematica Printer",
-        "version": "2.4",
-        "optional": true,
-        "file": "litematica-printer-1.18.2-2.4.jar",
-        "type": "mods",
-        "description": "A fork of Litematica that adds the missing printer functionality",
         "disabled": false,
         "userAdded": true,
         "wasSelected": true,
@@ -10143,17 +9034,1558 @@
         "userAdded": true,
         "wasSelected": true,
         "skipped": false
+      },
+      {
+        "name": "Illuminations ?",
+        "version": "1.10.4",
+        "optional": true,
+        "file": "illuminations-1.10.4.jar",
+        "type": "mods",
+        "description": "A client mod that adds fireflies and various glow-in-the-dark ambient particles to your world.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 292908,
+        "curseForgeFileId": 3791214,
+        "curseForgeProject": {
+          "id": 292908,
+          "name": "Illuminations ?",
+          "authors": [
+            {
+              "id": 192476,
+              "name": "doctor4t",
+              "url": "https://www.curseforge.com/members/33024798-doctor4t?username=doctor4t"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A client mod that adds fireflies and various glow-in-the-dark ambient particles to your world.",
+          "categories": [
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "illuminations",
+          "isFeatured": false,
+          "dateModified": "2022-05-15T10:50:42.847Z",
+          "dateCreated": "2018-04-28T12:23:07.09Z",
+          "dateReleased": "2022-05-15T10:48:56.933Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/illuminations",
+            "wikiUrl": "https://ladysnake.github.io/wiki/illuminations",
+            "issuesUrl": "https://github.com/Ladysnake/Illuminations/issues",
+            "sourceUrl": "https://github.com/ladysnake/illuminations"
+          },
+          "logo": {
+            "id": 453762,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/453/762/256/256/637719835163258464.png",
+            "title": "637719835163258464.png",
+            "url": "https://media.forgecdn.net/avatars/453/762/637719835163258464.png",
+            "modId": 292908
+          },
+          "allowModDistribution": false,
+          "screenshots": [
+            {
+              "id": 304140,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/304/140/310/172/illuminations-1.png",
+              "title": "Glowworms",
+              "url": "https://media.forgecdn.net/attachments/304/140/illuminations-1.png",
+              "modId": 292908
+            },
+            {
+              "id": 304141,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/304/141/310/172/illuminations-1.png",
+              "title": "Glowing plankton",
+              "url": "https://media.forgecdn.net/attachments/304/141/illuminations-1.png",
+              "modId": 292908
+            },
+            {
+              "id": 304138,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/304/138/310/172/illuminations-1.png",
+              "title": "Fireflies",
+              "url": "https://media.forgecdn.net/attachments/304/138/illuminations-1.png",
+              "modId": 292908
+            }
+          ],
+          "mainFileId": 3791214
+        },
+        "curseForgeFile": {
+          "id": 3791214,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Illuminations-1.10.4.jar",
+          "fileName": "illuminations-1.10.4.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-05-15T10:48:56.933Z",
+          "fileLength": 1265759,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2142649677,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 781515968,
+              "name": "resourcepacks"
+            },
+            {
+              "fingerprint": 2875357181,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2444795429,
+              "name": "illuminations.mixins.json"
+            },
+            {
+              "fingerprint": 3021563086,
+              "name": "illuminations.accesswidener"
+            },
+            {
+              "fingerprint": 1597598490,
+              "name": "illuminations-uninstaller.jar"
+            },
+            {
+              "fingerprint": 1737807801,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3202628371,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 12450342,
+              "name": "illuminations-refmap.json"
+            },
+            {
+              "fingerprint": 4094475715,
+              "name": "ladysnake"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "076c8fb7929dad53b5c1a727ec34a80d980c6d1f",
+              "algo": 1
+            },
+            {
+              "value": "2779276e0ea668ee6a869e5efcd49323",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.18.2"
+          ],
+          "fileFingerprint": 3511202314,
+          "modId": 292908
+        }
+      },
+      {
+        "name": "illuminations-uninstaller.jar",
+        "version": "Unknown",
+        "optional": true,
+        "file": "illuminations-uninstaller.jar",
+        "type": "mods",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false
+      },
+      {
+        "name": "MidnightLib",
+        "version": "0.4.3",
+        "optional": true,
+        "file": "midnightlib-0.4.3.jar",
+        "type": "mods",
+        "description": "Common library with a built-in configuration system",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 488090,
+        "curseForgeFileId": 3819803,
+        "curseForgeProject": {
+          "id": 488090,
+          "name": "MidnightLib",
+          "authors": [
+            {
+              "id": 402810,
+              "name": "TeamMidnightDust",
+              "url": "https://www.curseforge.com/members/100772337-teammidnightdust?username=teammidnightdust"
+            },
+            {
+              "id": 402685,
+              "name": "Motschen",
+              "url": "https://www.curseforge.com/members/36637866-motschen?username=motschen"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Common library with a built-in configuration system",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "midnightlib",
+          "isFeatured": false,
+          "dateModified": "2022-06-06T17:00:10.42Z",
+          "dateCreated": "2021-05-31T13:59:24.267Z",
+          "dateReleased": "2022-06-06T16:59:10.49Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/midnightlib",
+            "wikiUrl": "https://github.com/TeamMidnightDust/MidnightLib/wiki",
+            "issuesUrl": "https://github.com/TeamMidnightDust/MidnightLib/issues/",
+            "sourceUrl": "https://github.com/TeamMidnightDust/MidnightLib"
+          },
+          "logo": {
+            "id": 388582,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/388/582/256/256/637580663642837174.png",
+            "title": "637580663642837174.png",
+            "url": "https://media.forgecdn.net/avatars/388/582/637580663642837174.png",
+            "modId": 488090
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 368094,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/368/94/310/172/screenshot_minecraft_21w19a_1.png",
+              "title": "MidnightLib's config overview screen (accessed from options)",
+              "url": "https://media.forgecdn.net/attachments/368/94/screenshot_minecraft_21w19a_1.png",
+              "modId": 488090
+            },
+            {
+              "id": 397030,
+              "description": "Newer versions have a configurable background texture.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/397/30/310/172/midnightlib_1.png",
+              "title": "The MidnightLib Config screen",
+              "url": "https://media.forgecdn.net/attachments/397/30/midnightlib_1.png",
+              "modId": 488090
+            },
+            {
+              "id": 368085,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/368/85/310/172/screenshot_minecraft_1.png",
+              "title": "MidnightLib's own config screen (outdated)",
+              "url": "https://media.forgecdn.net/attachments/368/85/screenshot_minecraft_1.png",
+              "modId": 488090
+            },
+            {
+              "id": 452384,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/452/384/310/172/midnightconfig_example.png",
+              "title": "Example config screen",
+              "url": "https://media.forgecdn.net/attachments/452/384/midnightconfig_example.png",
+              "modId": 488090
+            },
+            {
+              "id": 368090,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/368/90/310/172/screenshot_minecraft_1.png",
+              "title": "Config screens accessible even without modmenu installed!",
+              "url": "https://media.forgecdn.net/attachments/368/90/screenshot_minecraft_1.png",
+              "modId": 488090
+            },
+            {
+              "id": 404380,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/404/380/310/172/midnightconfig_commands.png",
+              "title": "Edit server's configuration ingame using commands",
+              "url": "https://media.forgecdn.net/attachments/404/380/midnightconfig_commands.png",
+              "modId": 488090
+            }
+          ],
+          "mainFileId": 3819804
+        },
+        "curseForgeFile": {
+          "id": 3819803,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "MidnightLib 0.4.3 - 1.17/1.18",
+          "fileName": "midnightlib-0.4.3.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-06-06T16:57:31.077Z",
+          "fileLength": 59978,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2464251221,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 224405242,
+              "name": "LICENSE_midnightlib"
+            },
+            {
+              "fingerprint": 1914636129,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2767141075,
+              "name": "midnightlib.mixins.json"
+            },
+            {
+              "fingerprint": 836654213,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 4212348977,
+              "name": "midnightlib-refmap.json"
+            },
+            {
+              "fingerprint": 1107513849,
+              "name": "eu"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "86535b33459fdb48510b87e2f03291c34e1f799f",
+              "algo": 1
+            },
+            {
+              "value": "93bd48110dcbd1e8dc1310638b8680ab",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000017.0000000001",
+              "gameVersion": "1.17.1",
+              "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
+              "gameVersionName": "1.17.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000001",
+              "gameVersion": "1.18.1",
+              "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+              "gameVersionName": "1.18.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000017",
+              "gameVersion": "1.17",
+              "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
+              "gameVersionName": "1.17"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000017",
+              "gameVersion": "1.17",
+              "gameVersionReleaseDate": "2021-03-18T00:00:00Z",
+              "gameVersionName": "1.17-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018",
+              "gameVersion": "1.18",
+              "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+              "gameVersionName": "1.18"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018",
+              "gameVersion": "1.18",
+              "gameVersionReleaseDate": "2021-08-12T00:00:00Z",
+              "gameVersionName": "1.18-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "1.17.1",
+            "1.18.1",
+            "1.17",
+            "Fabric",
+            "1.18.2",
+            "1.17-Snapshot",
+            "1.18",
+            "1.18-Snapshot",
+            "Quilt"
+          ],
+          "fileFingerprint": 1709852606,
+          "modId": 488090
+        },
+        "modrinthProject": {
+          "id": "codAaoxh",
+          "slug": "midnightlib",
+          "project_type": "mod",
+          "team": "ANsuWAaP",
+          "title": "MidnightLib",
+          "description": "Common library with a built-in configuration system",
+          "body": "<center>MidnightLib is a library that provides common utils and a configuration system for mods.</br>\nIt is currently only in a beta state, since right now it's pretty much only the config and cosmetics, but it's in active development.</br>Mod developers are allowed and encouraged to include it into their mods.<br />Every feature, including cosmetics, can be toggled in the library's own config screen/file.\n<p style=\"text-align: center;\"><img src=\"https://i.imgur.com/FxSzto3.png\" alt=\"Example configuration screen\" height=\"532\" />\n<center><img src=\"https://github.com/Motschen/Assets/blob/main/quilt+fabric-banner.png?raw=true\" alt=\"\" width=\"586\" height=\"56\" />",
+          "published": "2021-06-01T14:51:21+00:00",
+          "updated": "2022-06-07T19:19:41+00:00",
+          "status": "approved",
+          "license": {
+            "id": "mit",
+            "name": "MIT License",
+            "url": "https://cdn.modrinth.com/licenses/mit.txt"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "library",
+            "misc",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/codAaoxh/icon.png",
+          "issues_url": "https://github.com/TeamMidnightDust/MidnightLib/issues/",
+          "source_url": "https://github.com/TeamMidnightDust/MidnightLib",
+          "wiki_url": "https://github.com/TeamMidnightDust/MidnightLib/wiki",
+          "discord_url": "https://discord.gg/jAGnWYHm3r",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "XU1FUSji",
+          "project_id": "codAaoxh",
+          "author_id": "6YsSV9eP",
+          "name": "MidnightLib 0.4.3 - 1.17/1.18",
+          "version_number": "0.4.3",
+          "changelog": "Fix AutoModMenu opt-out",
+          "date_published": "2022-06-06T16:40:50+00:00",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "86535b33459fdb48510b87e2f03291c34e1f799f",
+                "sha512": "078686302368a646300941e12c2c85917ad1c779f8299ef08131ce2d5bb0e2e82e494bf8d50b8316cf152368a796cc454535f1edea9854929807d98d03f57add"
+              },
+              "url": "https://cdn.modrinth.com/data/codAaoxh/versions/0.4.3/midnightlib-0.4.3.jar",
+              "filename": "midnightlib-0.4.3.jar",
+              "primary": true,
+              "size": 59978
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.17",
+            "1.17.1",
+            "1.18",
+            "1.18.1",
+            "1.18.2"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Puzzle",
+        "version": "1.3.0",
+        "optional": true,
+        "file": "puzzle-1.3.0.jar",
+        "type": "mods",
+        "description": "Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives. ",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 563977,
+        "curseForgeFileId": 3819533,
+        "curseForgeProject": {
+          "id": 563977,
+          "name": "Puzzle",
+          "authors": [
+            {
+              "id": 484646,
+              "name": "Motschen",
+              "url": "https://www.curseforge.com/members/36637866-motschen?username=motschen"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives. ",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "puzzle",
+          "isFeatured": false,
+          "dateModified": "2022-06-06T13:34:25.41Z",
+          "dateCreated": "2022-01-03T13:31:39.007Z",
+          "dateReleased": "2022-06-06T13:30:29.737Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/puzzle",
+            "issuesUrl": "https://github.com/PuzzleMC/Puzzle/issues",
+            "sourceUrl": "https://github.com/PuzzleMC/Puzzle"
+          },
+          "logo": {
+            "id": 475738,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/475/738/256/256/637768134990685183.png",
+            "title": "637768134990685183.png",
+            "url": "https://media.forgecdn.net/avatars/475/738/637768134990685183.png",
+            "modId": 563977
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 420107,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/420/107/310/172/graphics_settings.png",
+              "title": "Puzzle Graphics Settings Page",
+              "url": "https://media.forgecdn.net/attachments/420/107/graphics_settings.png",
+              "modId": 563977
+            },
+            {
+              "id": 420108,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/420/108/310/172/performance_settings.png",
+              "title": "Puzzle Performance Settings Page",
+              "url": "https://media.forgecdn.net/attachments/420/108/performance_settings.png",
+              "modId": 563977
+            },
+            {
+              "id": 420110,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/420/110/310/172/2022-01-02_21.png",
+              "title": "Emissive Mob Textures",
+              "url": "https://media.forgecdn.net/attachments/420/110/2022-01-02_21.png",
+              "modId": 563977
+            },
+            {
+              "id": 420104,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/420/104/310/172/options.png",
+              "title": "The Puzzle Options",
+              "url": "https://media.forgecdn.net/attachments/420/104/options.png",
+              "modId": 563977
+            },
+            {
+              "id": 420105,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/420/105/310/172/resource_page.png",
+              "title": "Puzzle Resource Settings Page",
+              "url": "https://media.forgecdn.net/attachments/420/105/resource_page.png",
+              "modId": 563977
+            },
+            {
+              "id": 420109,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/420/109/310/172/miscellaneous_settings.png",
+              "title": "Puzzle Miscellaneous Settings Page",
+              "url": "https://media.forgecdn.net/attachments/420/109/miscellaneous_settings.png",
+              "modId": 563977
+            }
+          ],
+          "mainFileId": 3819533
+        },
+        "curseForgeFile": {
+          "id": 3819533,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Puzzle 1.3.0 - 1.18",
+          "fileName": "puzzle-1.3.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-06-06T13:30:29.737Z",
+          "fileLength": 129300,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 488090,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3218262008,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2508316892,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 906205958,
+              "name": "assets"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "0fc7706f450418c09c4a2ffddbbbd2ccdebcf31a",
+              "algo": 1
+            },
+            {
+              "value": "877225cba35bfbe5bcfe3d06c7353d62",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000001",
+              "gameVersion": "1.18.1",
+              "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+              "gameVersionName": "1.18.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018",
+              "gameVersion": "1.18",
+              "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+              "gameVersionName": "1.18"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "1.18.1",
+            "Fabric",
+            "1.18.2",
+            "1.18",
+            "Quilt"
+          ],
+          "fileFingerprint": 1853186849,
+          "modId": 563977
+        },
+        "modrinthProject": {
+          "id": "3IuO68q1",
+          "slug": "puzzle",
+          "project_type": "mod",
+          "team": "7knsrjtq",
+          "title": "Puzzle",
+          "description": "Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives.",
+          "body": "<center><div class=\"mod-content\" style=\"text-align: center;\" data-v-e8c4e07a=\"\">\n<div class=\"markdown-body\" data-v-19b7907e=\"\" data-v-e8c4e07a=\"\">\n<p><span style=\"font-size: 10px;\"><em>Context: OptiFine was a big part of Minecraft modding for a long time and has been causing errors with mods this entire time, it's closed source nature making it especially hard to work with as a mod developer. For that reason, a lot of alternatives have been created. But usually they only replicate one specific feature of OptiFine, meaning the user has to install a lot of mods and configure them by searching for the specific mod in ModMenu.</em></span></p>\n<ul>\n<li>The first problem is relatively easy to solve, by either downloading a modpack such as <a href=\"https://www.curseforge.com/minecraft/modpacks/opalfab-optifine-alternatives-on-fabric\">OpalFab</a>&nbsp;or <a href=\"https://www.curseforge.com/minecraft/modpacks/fabulously-optimized\">Fabulously Optimized</a> or using <a href=\"https://lambdaurora.dev/optifine_alternatives\">Lambda's fantastic list of alternative mods</a></li>\n<li>Puzzle was created to solve the latter by providing a united config for OptiFine replacement mods, built-in support for the most relevant alternatives and a API for other mods to take advantage of.</li>\n<li>Due to many OptiFine features still having no replacement mod, Puzzle also adds certain OptiFine features on it's own, like resourcepack-provided splash screens</li>\n<li>We also offer some new, innovative features to resourcepack developers, such as unlocked rotation values and bigger size for JSON-models. The configuration screen can be found in the vanilla options screen, as well as ModMenu. &lrm;</li>\n</ul>\n<p><span style=\"font-size: 8px;\"><img src=\"https://i.imgur.com/CCx9WCq.png\" alt=\"The Puzzle Resource Settings Screen\" width=\"655\" /></span></p>\n<p><span style=\"font-size: 8px;\">&nbsp;</span><br />&thinsp; Currently, there is included support for the following mods:</p>\n<ul>\n<li><a href=\"https://curseforge.com/minecraft/mc-mods/cull-leaves\">Cull Leaves</a></li>\n<li><a href=\"https://curseforge.com/minecraft/mc-mods/irisshaders\">Iris</a></li>\n<li><a href=\"https://curseforge.com/minecraft/mc-mods/continuity\">Continuity</a></li>\n<li><a href=\"https://curseforge.com/minecraft/mc-mods/lambdynamiclights\">LambDynamicLights</a></li>\n<li><a href=\"https://curseforge.com/minecraft/mc-mods/lambdabettergrass\">LambdaBetterGrass</a></li>\n<li><a href=\"https://curseforge.com/minecraft/mc-mods/cit-resewn\">CITResewn</a></li>\n<li><a href=\"https://curseforge.com/minecraft/mc-mods/custom-entity-models-cem\">Custom Entity Models</a></li>\n<li><a href=\"https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric\">Entity Texture Features</a></li>\n</ul>\n</div>\n</div>\n<div class=\"mod-content\" style=\"text-align: center;\" data-v-e8c4e07a=\"\">\n<div class=\"markdown-body\" data-v-19b7907e=\"\" data-v-e8c4e07a=\"\">&nbsp;</div>\n<p><img src=\"https://github.com/Motschen/Assets/blob/main/quilt+fabric-banner.png?raw=true\" alt=\"\" height=\"56\" /></p>\n</div>\n<div id=\"gtx-trans\" style=\"position: absolute; left: 739px; top: 18px;\">&nbsp;</div>",
+          "published": "2022-01-02T20:52:24+00:00",
+          "updated": "2022-06-06T13:27:11+00:00",
+          "status": "approved",
+          "license": {
+            "id": "mit",
+            "name": "MIT License",
+            "url": "https://cdn.modrinth.com/licenses/mit.txt"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "library",
+            "misc",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/3IuO68q1/icon.png",
+          "issues_url": "https://github.com/PuzzleMC/Puzzle/issues",
+          "source_url": "https://github.com/PuzzleMC/Puzzle",
+          "discord_url": "https://discord.gg/rhunFhYgdF",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "ILWsnRId",
+          "project_id": "3IuO68q1",
+          "author_id": "6YsSV9eP",
+          "name": "Puzzle 1.3.0 - 1.18.2",
+          "version_number": "1.3.0",
+          "changelog": "- Fix multiple bugs related to puzzle-splashscreen (Closes #32, #29)\n- Update integrations (Closes #27; Compatibility with both Continuity 1.x.x and 2.x.x)\n- Move puzzle icon to the right side when Distant Horizons is installed\n- Prefix mixin methods with \"puzzle$\" for easier debugging\n- Update german translations",
+          "date_published": "2022-06-06T13:27:12+00:00",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "0fc7706f450418c09c4a2ffddbbbd2ccdebcf31a",
+                "sha512": "7181c717718aa11cb29b44f90345253b99c9cf988dcb67f4aed69e2377292bf50777dd873c126dcb36f9015fd20e7889d379ba90cd6be7fb872614f86bb339f4"
+              },
+              "url": "https://cdn.modrinth.com/data/3IuO68q1/versions/1.3.0/puzzle-1.3.0.jar",
+              "filename": "puzzle-1.3.0.jar",
+              "primary": false,
+              "size": 129300
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "enS8Fiz0",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.18.2"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "EMI",
+        "version": "0.1.2+1.18.2",
+        "optional": true,
+        "file": "emi-0.1.2+1.18.2.jar",
+        "type": "mods",
+        "description": "A featureful and accessible item and recipe viewer",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "fRiHVvU7",
+          "slug": "emi",
+          "project_type": "mod",
+          "team": "OqEReJSr",
+          "title": "EMI",
+          "description": "A featureful and accessible item and recipe viewer",
+          "body": "# EMI\nEMI is a featureful and accessible item and recipe viewer. It brings many new features, and optimizes for the user experience. Outside of the standard Fabric/Quilt API, EMI requires **zero** dependencies, and can be launched with the game simply and easily.\n\n![](https://cdn-raw.modrinth.com//data/fRiHVvU7/images/be6463520a899a6c261431fa30dabf6f3f01507d.png)\n\n## What does EMI stand for?\nIt doesn't, it's not an acronym. Or maybe it's an acronym without a meaning? If it makes you more comfortable, you can pick one from the list below, or make your own up.\n\n* Emi Memy Imi\n* Exhaustively Many Items\n* Explicitly Mandated Items\n* Endless Material Information\n* Expounded Minutia Introspection\n* Earnestly Made Imitation\n* Even More Items\n* Eminence, My Inception\n* Emi's Magic Inventory\n* Efficiently Managed Inventory\n* Exploring Modified: Iridescent\n* Expropriated Matter Insights",
+          "published": "2022-06-08T18:43:43+00:00",
+          "updated": "2022-06-10T14:50:32+00:00",
+          "status": "approved",
+          "license": {
+            "id": "mit",
+            "name": "MIT License",
+            "url": "https://cdn.modrinth.com/licenses/mit.txt"
+          },
+          "client_side": "required",
+          "server_side": "optional",
+          "categories": [
+            "library",
+            "misc",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/fRiHVvU7/icon.png",
+          "issues_url": "https://github.com/emilyploszaj/emi/issues/",
+          "source_url": "https://github.com/emilyploszaj/emi/",
+          "wiki_url": "https://github.com/emilyploszaj/emi/wiki/",
+          "discord_url": "https://discord.gg/T2PuD9RTWV",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/fRiHVvU7/images/3534d790f7c010e09637a67faa92e2d00ae2ec07.png",
+              "featured": false,
+              "title": "EMI recipe tree",
+              "created": "2022-06-10T19:40:31+00:00"
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/fRiHVvU7/images/be6463520a899a6c261431fa30dabf6f3f01507d.png",
+              "featured": false,
+              "title": "EMI recipe screen",
+              "created": "2022-06-10T19:40:31+00:00"
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "K65QAWMh",
+          "project_id": "fRiHVvU7",
+          "author_id": "R6WsWKy9",
+          "name": "0.1.2+1.18.2",
+          "version_number": "0.1.2+1.18.2",
+          "changelog": "### Fixes\n* Added null checks for safety in screens\n* Fixed some precision errors in very rare cases in the recipe tree\n* Adjusted recipe tree remainder calculation to be accurate for certain cases",
+          "date_published": "2022-06-10T14:50:33+00:00",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "18ff797f58068373dc5ed6776d2d4f8ef63d9ee6e4cfe4329a90692d655154d4e8b73497214225c504bbde655b7cd3748d654031488c2a787dd4cb448bc46a6d",
+                "sha1": "92011ad54333ab9e9c1899a1315d5886db893649"
+              },
+              "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/0.1.2+1.18.2/emi-0.1.2%2B1.18.2.jar",
+              "filename": "emi-0.1.2+1.18.2.jar",
+              "primary": true,
+              "size": 433736
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.18.2"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Common-Brand",
+        "version": "Initial release",
+        "optional": true,
+        "file": "commonbrand-1.0R.jar",
+        "type": "mods",
+        "description": "Add a cool brand for the Common-Sense modpack",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "eAs8ug76",
+          "slug": "common-brand",
+          "project_type": "mod",
+          "team": "VYa8Rpir",
+          "title": "Common-Brand",
+          "description": "Add a cool brand for the Common-Sense modpack",
+          "body": "### Common-Brand\n\nCommon brand is a very simple misc mod used in [Common-Sense](https://modrinth.com/modpack/common-sense) modpack to edit the brand to \"Common-Sense / QuiltMC\"\n\nInfo : This mod can be removed from your modpack without any problem, keeping the \"fabric\" brand",
+          "published": "2022-06-06T20:35:27+00:00",
+          "updated": "2022-06-07T18:45:33+00:00",
+          "status": "approved",
+          "license": {
+            "id": "custom",
+            "name": "Custom License",
+            "url": "https://www.gnu.org/licenses/quick-guide-gplv3"
+          },
+          "client_side": "required",
+          "server_side": "optional",
+          "categories": [
+            "misc"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/eAs8ug76/icon.png",
+          "issues_url": "https://github.com/craftish37/Common-Brand/pulls",
+          "source_url": "https://github.com/craftish37/Common-Brand",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "tEnWcbll",
+          "project_id": "eAs8ug76",
+          "author_id": "rrWwJCke",
+          "name": "Initial release",
+          "version_number": "1.0R",
+          "changelog": "",
+          "date_published": "2022-06-07T18:45:34+00:00",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "5693931b79369c175e7261e14a9e8c4cbac1d36f3596196c08d51d8e32277b98e51e85099fb96a928d684312c4f4adfd4cb43e4cde448ea76a14d637704b9fae",
+                "sha1": "d9f4462474dbe5825953aa909a62676365c0b276"
+              },
+              "url": "https://cdn.modrinth.com/data/eAs8ug76/versions/1.0R/commonbrand-1.0R-sources.jar",
+              "filename": "commonbrand-1.0R-sources.jar",
+              "primary": false,
+              "size": 76126
+            },
+            {
+              "hashes": {
+                "sha1": "8dde5d8a38a5350c9f5c79a3c11953b11902ae36",
+                "sha512": "b95845860a453ae4298ce456d4f2c11b5248462e64aa1c5c5b9b2051d31dcfeb3eea7c0e67d971e0f4ecbd0e9be4511bc636da2b4ad8b40f67900650c659aeff"
+              },
+              "url": "https://cdn.modrinth.com/data/eAs8ug76/versions/1.0R/commonbrand-1.0R-dev.jar",
+              "filename": "commonbrand-1.0R-dev.jar",
+              "primary": false,
+              "size": 88510
+            },
+            {
+              "hashes": {
+                "sha1": "b64d9b63a0a4c2ec66c0d70ab3e7f04fecafe8b9",
+                "sha512": "fb981f81e9ca272475ebe6e68c6ed801ae769beec58baa232eb133a66c41aa1e07200df12f7891c72e255dce2fe7db7ec4328c738889e2ce1c3595c0db124f2a"
+              },
+              "url": "https://cdn.modrinth.com/data/eAs8ug76/versions/1.0R/commonbrand-1.0R-sources-dev.jar",
+              "filename": "commonbrand-1.0R-sources-dev.jar",
+              "primary": false,
+              "size": 74927
+            },
+            {
+              "hashes": {
+                "sha1": "bb4ab0270b55508e01fa8848274e26b7c14e65db",
+                "sha512": "77ca778ba1db7f4501265bc274d2e7eba7313973ec302d9da61ff503984b9ffe02e6fe01227a3124728d0010b46666fdfc07e819917fa982e50396fa917c82ae"
+              },
+              "url": "https://cdn.modrinth.com/data/eAs8ug76/versions/1.0R/commonbrand-1.0R.jar",
+              "filename": "commonbrand-1.0R.jar",
+              "primary": true,
+              "size": 90071
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.18.2"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Memory Leak Fix",
+        "version": "MemoryLeakFix - v0.3.5",
+        "optional": true,
+        "file": "memoryleakfix-1.18.2-0.3.5.jar",
+        "type": "mods",
+        "description": "A mod that fixes random memory leaks for both the client and server",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "NRjRiSSD",
+          "slug": "memoryleakfix",
+          "project_type": "mod",
+          "team": "PxfoVTFT",
+          "title": "Memory Leak Fix",
+          "description": "A mod that fixes random memory leaks for both the client and server",
+          "body": "# memoryLeakFix\n### A mod that fixes multiple memory leaks in Minecraft. Both server-side & client-side\n\nFor the best performance & memory usage, I recommend using this mod with:\n\n- [ForgetMeChunk](https://github.com/mjwells2002/ForgetMeChunk) - Fixes the chunk border lag spikes, basically required if you want smooth gameplay!\n- [lazydfu](https://github.com/astei/lazydfu) - Makes startup much faster by not loading DFU until needed, also saves on memory\n- [lithium-fabric](https://github.com/CaffeineMC/lithium-fabric) - The best general performance mod\n- [starlight](https://github.com/PaperMC/Starlight) - Re-write of the light engine to be blazing fast\n \n## More Info \n  \nFeel free to contribute to the project!  \nI'm also fine if you use this mod in your modpacks  \n\n## My other optimizations/fixes\n* [MoreCulling](https://modrinth.com/mod/moreculling) - Changes how blockstate culling is handled to improve performance\n* [Carpet-Fixes](https://modrinth.com/mod/carpet-fixes) - Largest Server-Side bug fixing mod\n* [Blanket](https://modrinth.com/mod/blanket) - Client-side tweaks/fixes\n\n---  \n\nI don't give consent to Debugify to use this mod (or any mod) to merge my mod into another mod.\nHere's why: https://gist.github.com/fxmorin/9770473614e3e5e0703e44273dab33f7",
+          "published": "2022-05-25T14:57:06+00:00",
+          "updated": "2022-06-11T15:29:22+00:00",
+          "status": "approved",
+          "license": {
+            "id": "lgpl-2.1",
+            "name": "GNU Lesser General Public License v2.1",
+            "url": "https://cdn.modrinth.com/licenses/lgpl-2.1.txt"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "misc",
+            "optimization"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/NRjRiSSD/icon.png",
+          "issues_url": "https://github.com/fxmorin/memoryLeakFix/issues",
+          "source_url": "https://github.com/fxmorin/memoryLeakFix",
+          "discord_url": "http://discord.gg/rcTjvxq",
+          "donation_urls": [
+            {
+              "id": "github",
+              "platform": "GitHub Sponsors",
+              "url": "https://github.com/sponsors/fxmorin"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "y1Kvwhgo",
+          "project_id": "NRjRiSSD",
+          "author_id": "PdtUuAh6",
+          "name": "MemoryLeakFix - v0.3.5",
+          "version_number": "v0.3.5",
+          "changelog": "**Fixes:**\r\n* [#10](https://github.com/fxmorin/memoryLeakFix/issues/10) - Netty trying to release a packet that actually managed to get released. Probably due to another mod\r\n* Fix ConcurrentModificationException Crash",
+          "date_published": "2022-06-03T18:23:34+00:00",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "7ae0a974c8ca0f2639b6421396f9ff65108567759d1fe6bcc09b9d869511d1a2a70c185f347dd897a24ad3bc7d36b00a05c854ec138239c3b5243c5f0938283e",
+                "sha1": "d4f934c4f45ea97e98b26d7f1e963c4740b3d9ea"
+              },
+              "url": "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.3.5/memoryleakfix-1.18.2-0.3.5-sources.jar",
+              "filename": "memoryleakfix-1.18.2-0.3.5-sources.jar",
+              "primary": false,
+              "size": 26683
+            },
+            {
+              "hashes": {
+                "sha512": "213cf77e6dc4d9c6b8febf381f56a885e0a6422fdfab1c0e19b1e9f16fcf1720d0466f21b7bc63b8434695c524c62e004c1628de0bd3134f7934a146b0d34544",
+                "sha1": "2c1cf24ceb8484277a832a4d547ae0f3359a9e09"
+              },
+              "url": "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.3.5/memoryleakfix-1.18.2-0.3.5.jar",
+              "filename": "memoryleakfix-1.18.2-0.3.5.jar",
+              "primary": true,
+              "size": 39481
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.18",
+            "1.18.1",
+            "1.18.2"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "BetterF3",
+        "version": "BetterF3 Fabric v1.2.5 (1.18.2)",
+        "optional": true,
+        "file": "BetterF3-1.2.5-Fabric-1.18.2.jar",
+        "type": "mods",
+        "description": "BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "8shC1gFX",
+          "slug": "betterf3",
+          "project_type": "mod",
+          "team": "uWJ0gwSz",
+          "title": "BetterF3",
+          "description": "BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.",
+          "body": "# BetterF3 \n![Environment: Client](https://img.shields.io/badge/environment-client-1976d2?style=flat-square)\n\n#### BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more.\n\n#### Dependencies\n\nFabric\n* Optionally: [ModMenu](https://modrinth.com/mod/modmenu) to access the options menu\n* Included: [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config) to use F3 + M\n\nForge\n* Highly Recommended: [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config) to use F3 + M\n\n#### Features\nEach line is part of a Module, you can:\n* Change the colors of each module\n* Change the position of each module\n* Add and delete modules, as well as add spacings between them\n* Disable individual lines of a module, or disable the whole module\n* Add a shadow to the text rendered (Activated by default)\n* Change the color of the background behind all lines\n* Animations for opening/closing (with configurable speeds)\n\n#### Translations\nThis mod has been translated into multiple languages. Add or update your own language on [Crowdin](https://crowdin.com/project/betterf3)\n\n#### Development Builds\nThe latest builds can be found [here](https://github.com/cominixo/BetterF3/actions/).\n\n#### Configuration\nDownloading [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config) allows you to press F3 + M in game to edit the F3 menu.\n##### \n\n#### Screenshots and Videos\n\n![Image](https://raw.githubusercontent.com/TreyRuffy/BetterF3/1.16.4-Forge/docs/readme%20image.png)\n![GIF](https://raw.githubusercontent.com/TreyRuffy/BetterF3/1.16.4-Forge/docs/readme%20gif.gif)\n\n[Video by AntVenom](https://www.youtube.com/watch?v=jbkivpOujXI&t=568s)</br>\n[Video by Boodlyneck](https://www.youtube.com/watch?v=5lcZ853-jkA&t=349s)\n\n#### Thanks to [@Nirewen](https://github.com/nirewen) for the icon.\n\n### Post any issues on the [GitHub Issues tab](https://github.com/cominixo/BetterF3/issues)",
+          "published": "2021-09-20T05:42:23+00:00",
+          "updated": "2022-06-10T08:56:36+00:00",
+          "status": "approved",
+          "license": {
+            "id": "mit",
+            "name": "MIT License",
+            "url": "https://cdn.modrinth.com/licenses/mit.txt"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "misc",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com//data/8shC1gFX/icon.png",
+          "issues_url": "https://github.com/cominixo/BetterF3/issues/",
+          "source_url": "https://github.com/cominixo/BetterF3",
+          "donation_urls": [
+            {
+              "id": "bmac",
+              "platform": "Buy Me a Coffee",
+              "url": "https://www.buymeacoffee.com/TreyRuffy"
+            },
+            {
+              "id": "github",
+              "platform": "GitHub Sponsors",
+              "url": "https://github.com/sponsors/TreyRuffy"
+            },
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/cominixo"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/8shC1gFX/images/546fc6d22a9adeb148ea1f278eaec9a55640aa56.png",
+              "featured": true,
+              "title": "F3 Menu",
+              "description": "The colored F3 menu",
+              "created": "2022-06-15T22:00:38+00:00"
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "EWqUNavR",
+          "project_id": "8shC1gFX",
+          "author_id": "8ffpigk3",
+          "name": "BetterF3 Fabric v1.2.5 (1.18.2)",
+          "version_number": "1.2.5.1",
+          "changelog": "* Updated Crowdin Languages\n* Updated Checkstyle\n* Updated Indra\n* Updated dependencies\n\n* Fix https://github.com/cominixo/BetterF3/issues/79 (DistExecutor#safeRunWhenOn)\n* Add regions file viewer https://github.com/cominixo/BetterF3/issues/76\n\n**Full Changelog**: https://github.com/cominixo/BetterF3/compare/v1.2.4...v1.2.5",
+          "date_published": "2022-05-20T19:53:34+00:00",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "457734b8099afbda9218c59aa6f197e2a2cc8d65",
+                "sha512": "f98ffd002be93c55f8c207858945b77ab7a65f40e9948d8fcee6d74cf32c03348f617b0672b9a34222a5145b4fb97888498a6f60332b41f32f2d2b1a51ad6428"
+              },
+              "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/1.2.5.1/BetterF3-1.2.5-Fabric-1.18.2.jar",
+              "filename": "BetterF3-1.2.5-Fabric-1.18.2.jar",
+              "primary": true,
+              "size": 1400327
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "63NArvT8",
+              "dependency_type": "required"
+            },
+            {
+              "version_id": "GYRoFp1I",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.18.2"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "LambdaBetterGrass",
+        "version": "LambdaBetterGrass 1.2.4 (1.18)",
+        "optional": true,
+        "file": "lambdabettergrass-1.2.4+1.18.jar",
+        "type": "mods",
+        "description": "Adds better grass and snow to the game.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 400322,
+        "curseForgeFileId": 3833479,
+        "curseForgeProject": {
+          "id": 400322,
+          "name": "LambdaBetterGrass",
+          "authors": [
+            {
+              "id": 308967,
+              "name": "LambdAurora",
+              "url": "https://www.curseforge.com/members/20706890-lambdaurora?username=lambdaurora"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds better grass and snow to the game.",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "lambdabettergrass",
+          "isFeatured": false,
+          "dateModified": "2022-06-15T17:18:57.587Z",
+          "dateCreated": "2020-08-05T10:24:37.25Z",
+          "dateReleased": "2022-06-15T17:16:03.737Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/LambdAurora/LambdaBetterGrass/issues",
+            "sourceUrl": "https://github.com/LambdAurora/LambdaBetterGrass"
+          },
+          "logo": {
+            "id": 291462,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/291/462/256/256/637322198772917679.png",
+            "title": "637322198772917679.png",
+            "url": "https://media.forgecdn.net/avatars/291/462/637322198772917679.png",
+            "modId": 400322
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 311373,
+              "description": "Requires ModMenu to be accessed.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/311/373/310/172/2020-09-04_14.png",
+              "title": "Configuration screen.",
+              "url": "https://media.forgecdn.net/attachments/311/373/2020-09-04_14.png",
+              "modId": 400322
+            },
+            {
+              "id": 339496,
+              "description": "Lush Caves with better \"snow\" and the LambdaBetterGrass Default extension resource pack.\r\n\r\nCredits to cavebiomes by SuperCoder79 for the lush caves generation.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/339/496/310/172/2021-02-09_18.png",
+              "title": "Lush Caves",
+              "url": "https://media.forgecdn.net/attachments/339/496/2021-02-09_18.png",
+              "modId": 400322
+            },
+            {
+              "id": 312481,
+              "description": "It's literally pack.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/312/481/310/172/2020-09-11_16.png",
+              "title": "pack.png with better grass",
+              "url": "https://media.forgecdn.net/attachments/312/481/2020-09-11_16.png",
+              "modId": 400322
+            },
+            {
+              "id": 311370,
+              "description": "Standard better snow, adds a snow layer to some non-full blocks like fences, a lot of plant-like blocks, etc.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/311/370/310/172/2020-09-04_14.png",
+              "title": "Better snow",
+              "url": "https://media.forgecdn.net/attachments/311/370/2020-09-04_14.png",
+              "modId": 400322
+            },
+            {
+              "id": 311374,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/311/374/310/172/2020-09-04_14.png",
+              "title": "Better grass with Nether Update",
+              "url": "https://media.forgecdn.net/attachments/311/374/2020-09-04_14.png",
+              "modId": 400322
+            },
+            {
+              "id": 311371,
+              "description": "Better snow with the Default extension built-in resource pack.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/311/371/310/172/2020-09-04_14.png",
+              "title": "Better snow extended",
+              "url": "https://media.forgecdn.net/attachments/311/371/2020-09-04_14.png",
+              "modId": 400322
+            },
+            {
+              "id": 312482,
+              "description": "Better grass with Fancy settings, side textures are smoothen.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/312/482/310/172/2020-09-11_16.png",
+              "title": "Better grass",
+              "url": "https://media.forgecdn.net/attachments/312/482/2020-09-11_16.png",
+              "modId": 400322
+            }
+          ],
+          "mainFileId": 3833479
+        },
+        "curseForgeFile": {
+          "id": 3833479,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "LambdaBetterGrass 1.2.4 (1.18)",
+          "fileName": "lambdabettergrass-1.2.4+1.18.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-06-15T17:16:03.737Z",
+          "fileLength": 1142523,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 318440,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3213465041,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2696056356,
+              "name": "resourcepacks"
+            },
+            {
+              "fingerprint": 2972368047,
+              "name": "lambdabettergrass.toml"
+            },
+            {
+              "fingerprint": 3236363798,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3790497817,
+              "name": "lambdabettergrass.mixins.json"
+            },
+            {
+              "fingerprint": 1885814413,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1316701629,
+              "name": "lambdabettergrass-refmap.json"
+            },
+            {
+              "fingerprint": 1187749022,
+              "name": "dev"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "c3a7ee079b6344222d36cc1615bb2ffe1359e8ff",
+              "algo": 1
+            },
+            {
+              "value": "bd66dc033272ca5bc018df31265ec8ff",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.18.2",
+            "Quilt"
+          ],
+          "fileFingerprint": 1597327614,
+          "modId": 400322
+        }
+      },
+      {
+        "name": "Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)",
+        "version": "[FABRIC 1.17/18] v1.4.5_01",
+        "optional": true,
+        "file": "ears-fabric-1.17-1.4.5_01.jar",
+        "type": "mods",
+        "description": "More skin customization options for just about every version + skin back?ports/fixes for pre-1.9 versions.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "mfzaZK3Z",
+          "slug": "ears",
+          "project_type": "mod",
+          "team": "4dPJJaoX",
+          "title": "Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)",
+          "description": "More skin customization options for just about every version + skin back?ports/fixes for pre-1.9 versions.",
+          "body": "<p style=\"text-align: center;\"><img src=\"https://unascribed.com/ears-banner.png\" width=\"512\" height=\"180\" /></p>\n<p>&nbsp;</p>\n<div style=\"text-align: center; font-size: 20px;\"><strong>Faithful fancy fashion features for fuzzy folk.</strong></div>\n<p>&nbsp;</p>\n<div style=\"text-align: center\"><a href=\"https://donate.unascribed.com/?project=11\"><img src=\"https://unascribed.com/donate-mods.svg.png\" alt=\"Support me and my mods\" width=\"192\" height=\"72\" /></a></div>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p style=\"font-size: 16px\">Created due to a lack of the <a style=\"font-size: 16px\" href=\"https://www.curseforge.com/minecraft/mc-mods/tails/\">Tails</a> mod for 1.16, Ears is a mod that adds ears, snouts, tails, horns, wings, and more to the player. Eventually, it also became a complete lightweight open source 1.9 skin backport for many old versions, which works even if you aren't using its special features.</p>\n<p>&nbsp;</p>\n<p>Ears has a more vanilla-faithful appearance than Tails, with a lot of 2D regions but a few 3D ones too. There are a wide variety of possible configurations and it can all be customized.</p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><a href=\"https://unascribed.com/ears\"><img src=\"https://unascribed.com/ears-manipulator-banner.png?v=2\" alt=\"Configure your skin at The Manipulator (click here)\" width=\"512\" height=\"180\" /></a></p>\n<p>&nbsp;</p>\n<p><b>Why use Ears instead of Tails?</b> Because Ears is easy to port to other versions, based on a multi-version abstraction allowing the mod to even run in web browsers. The Tails mod has wonderful 3D models and animations, but it's a burden to update it to any version due to its large rendering system and all the data syncing code, causing it to be tightly coupled with the version of the game and mod loader it was designed for. Ears stores all data as pixels in the player's skin.</p>\n<p>&nbsp;</p>\n<p><b>However, Ears requires you to draw your own additions</b>, and does not come with easy recolorable prefabs like Tails. Additionally, unlike CPM or Figura, Ears has a limited number of customization options. (Note that if you have a simple idea, I may add it. Open an issue on GitHub or hop in Discord.) <b>Ears offers a good middle-ground that will work in any version you wish to play</b>, and will receive updates to snapshots for those of you who live on the edge. It also does not and never will use external servers, just Mojang's skin server, so there's no concerns about a third-party server going down (be it temporarily or for good).</p>\n<p>&nbsp;</p>\n<p><b>Why use Ears instead of other skin fixes?</b> Ears provides a lot of new features to customize your skin, and is a much more lightweight patch with no usage of third-party servers and is completely open source. Additionally, Ears backports translucent secondary layer support to 1.8 and 1.7.</p>\n<p>&nbsp;</p>\n<p>Come discuss this mod and any of my others on <a href=\"https://discord.gg/8WBauq2eYK\">Discord</a> or <a href=\"https://matrix.to/#/#unascribed:sleeping.town\">Matrix</a>, or <a href=\"mailto:me@unascribed.com\">send me an email</a>.</p>",
+          "body_url": "https://cdn.modrinth.com/data/mfzaZK3Z/description.md",
+          "published": "2020-11-11T00:20:54+00:00",
+          "updated": "2022-05-21T01:50:43+00:00",
+          "status": "approved",
+          "license": {
+            "id": "mit",
+            "name": "MIT License",
+            "url": "https://cdn.modrinth.com/licenses/mit.txt"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "decoration",
+            "misc"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/mfzaZK3Z/icon.png",
+          "issues_url": "https://github.com/unascribed/Ears/issues",
+          "source_url": "https://github.com/unascribed/Ears",
+          "wiki_url": "https://github.com/unascribed/Ears/wiki",
+          "discord_url": "https://discord.gg/8WBauq2eYK",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://patreon.com/unascribed"
+            },
+            {
+              "id": "other",
+              "platform": "Other",
+              "url": "https://donate.unascribed.com"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "7AcIEmmQ",
+          "project_id": "mfzaZK3Z",
+          "author_id": "wyHXuMwU",
+          "name": "[FABRIC 1.17/18] v1.4.5_01",
+          "version_number": "1.4.5_01+fabric-1.17",
+          "changelog": "v1.4.5_01 (Forge 1.4, Fabric 1.15/16/17/18 only):\n<ul>\n<li>Fix armor support ignoring state overrides</li>\n</ul>\n\n<ul>\n<li>Ears features can now be retrieved from the API</li>\n<li>Added armor rendering support to Fabric 1.16, 1.17, 1.18 and Forge 1.4 ports</li>\n<li>Wings are now 20x16</li>\n<li>Enabled cape support (originally added in 1.4.2, but was disabled)</li>\n</ul>\n",
+          "date_published": "2022-01-22T08:06:23+00:00",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "d23a54ec68240b81666aa444bdbf08cd6f0152f3",
+                "sha512": "3002c97f3eecde5a527c409f6197b2715e7cb502c7ecb1a0376b57de0ea258da4a921651532bf78eb3be0fc8dd208c6b90392363fe113c12aef89bc5ea51575b"
+              },
+              "url": "https://cdn.modrinth.com/data/mfzaZK3Z/versions/1.4.5_01+fabric-1.17.01/ears-fabric-1.17-1.4.5_01.jar",
+              "filename": "ears-fabric-1.17-1.4.5_01.jar",
+              "primary": true,
+              "size": 168157
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.17",
+            "1.17.1",
+            "1.18",
+            "1.18.1",
+            "1.18.2"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "vanillaInstance": true,
+    "lastPlayed": 1655334565933,
+    "numPlays": 3,
     "lastExportName": "Common-Sense",
     "lastExportVersion": "1.18.2",
     "lastExportAuthor": "craftish37",
     "lastExportSaveTo": "C:\\Users\\Raphaël\\Downloads\\ATLauncher\\instances\\Common-Sense"
   },
-  "lastPlayed": 0,
-  "numPlays": 0,
   "id": "1.18.2",
   "complianceLevel": 1,
   "javaVersion": {
@@ -10274,10 +10706,10 @@
   "minimumLauncherVersion": "21",
   "assetIndex": {
     "id": "1.18",
-    "sha1": "7fcda714d4a391a711ce434fa1dbbebe73ecf179",
-    "size": 348330,
-    "url": "https://launchermeta.mojang.com/v1/packages/7fcda714d4a391a711ce434fa1dbbebe73ecf179/1.18.json",
-    "totalSize": 466558267
+    "sha1": "de57d9f6d65a980f86df431603287248d4f148b5",
+    "size": 348532,
+    "url": "https://launchermeta.mojang.com/v1/packages/de57d9f6d65a980f86df431603287248d4f148b5/1.18.json",
+    "totalSize": 467473537
   },
   "assets": "1.18",
   "downloads": {

@@ -1,0 +1,38 @@
+{
+	"dynamicCrosshair": true,
+	"hideWithScreen": true,
+	"crosshairSettings": {
+		"onBlock": "IfTargeting",
+		"onEntity": true,
+		"holdingTool": "Always",
+		"holdingMeleeWeapon": true,
+		"holdingRangedWeapon": "IfRangedWeaponFullyDrawn",
+		"holdingThrowable": "Always",
+		"holdingShield": true,
+		"holdingBlock": "IfInteractable",
+		"holdingUsableItem": "IfInteractable"
+	},
+	"color": {
+		"crosshairColor": "Unchanged",
+		"customColor": -5588020,
+		"forceColor": false
+	},
+	"dynamicCrosshairStyle": true,
+	"crosshairStyle": {
+		"regular": "CROSS",
+		"onBlock": "CROSS",
+		"onEntity": "DIAGONAL_CROSS",
+		"holdingTool": "SQUARE",
+		"holdingMeleeWeapon": "CROSS",
+		"holdingRangedWeapon": "DIAGONAL_CROSS",
+		"holdingThrowable": "CIRCLE",
+		"holdingBlock": "DIAMOND"
+	},
+	"crosshairModifiers": {
+		"modInteractable": "BRACKETS",
+		"modCorrectTool": "DOT",
+		"modIncorrectTool": "DIAGONAL_CROSS",
+		"modUsableItem": "ROUND_BRACKETS",
+		"modShield": "BRACKETS_BOTTOM"
+	}
+}
