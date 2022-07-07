@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "serverLanguage": "auto",
+  "clientLanguage": "en",
+  "translationTooltip": false,
+  "desugar": false,
+  "receivingRegex": "",
+  "receivingRegexIsBlacklist": true,
+  "sendingRegex": "",
+  "sendingRegexIsBlacklist": true
+}

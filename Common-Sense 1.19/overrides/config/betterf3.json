@@ -1,0 +1,111 @@
+{
+	"general": {
+		"animationSpeed": 1.0,
+		"disable_mod": true,
+		"background_color": 16777215,
+		"space_modules": false,
+		"shadow_text": true,
+		"animations": false,
+		"fontScale": 1.0,
+		"hide_sidebar": true
+	},
+	"modules_right": [
+		{
+			"name": "system",
+			"name_color": 16777215,
+			"value_color": 16777215,
+			"lines": {
+				"opengl_version": true,
+				"display": true,
+				"java_version": true,
+				"gpu_driver": true,
+				"memory_usage": true,
+				"allocated_memory": true,
+				"cpu": true,
+				"gpu": true
+			},
+			"enabled": true
+		}, 
+		{
+			"empty_lines": 1,
+			"name": "empty",
+			"lines": {
+				"nothing": true
+			},
+			"enabled": true
+		}
+	],
+	"modules_left": [
+		{
+			"name": "minecraft",
+			"name_color": 16777215,
+			"value_color": 43520,
+			"lines": {
+				"minecraft": true
+			},
+			"enabled": true
+		}, 
+		{
+			"color_high": 16777215,
+			"color_med": 16777215,
+			"name": "fps",
+			"lines": {
+				"fps": true
+			},
+			"enabled": true,
+			"color_low": 16733525
+		}, 
+		{
+			"name": "server",
+			"name_color": 16777215,
+			"value_color": 16777215,
+			"lines": {
+				"server_tick": true,
+				"packets_sent": true,
+				"packets_received": true
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "location",
+			"name_color": 16777215,
+			"value_color": 16777215,
+			"lines": {
+				"light": false,
+				"biome": true,
+				"rotation": false,
+				"facing": false,
+				"slime_chunk": true,
+				"local_difficulty": true,
+				"days_played": true,
+				"dimension": false,
+				"highest_block": true,
+				"highest_block_server": true,
+				"light_server": false
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "sound",
+			"name_color": 16777215,
+			"value_color": 16777215,
+			"lines": {
+				"ambient_sounds": true,
+				"sounds": true,
+				"mood": true
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "help",
+			"name_color": 16777215,
+			"value_color": 16777215,
+			"lines": {
+				"help": true,
+				"pie_graph": true,
+				"fps_tps": true
+			},
+			"enabled": true
+		}
+	]
+}

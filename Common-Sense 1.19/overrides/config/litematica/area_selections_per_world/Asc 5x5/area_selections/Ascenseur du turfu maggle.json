@@ -1,0 +1,18 @@
+{
+  "name": "Ascenseur du turfu maggle",
+  "boxes": [
+    {
+      "pos1": [
+        -68,
+        100,
+        179
+      ],
+      "pos2": [
+        -59,
+        1,
+        163
+      ],
+      "name": "Ascenseur du turfu maggle"
+    }
+  ]
+}

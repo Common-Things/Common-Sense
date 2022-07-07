@@ -1,0 +1,14 @@
+{
+  "scale": 0.75,
+  "anchor": "TOP_RIGHT",
+  "posX": 458,
+  "posY": 322,
+  "drawCover": true,
+  "volumeStep": 10,
+  "titleColor": "#ffffff",
+  "artistColor": "#ffffff",
+  "timeColor": "#ffffff",
+  "barColor": "#ffffff",
+  "backgroundColor": "#000000",
+  "backgroundTransparency": 100
+}

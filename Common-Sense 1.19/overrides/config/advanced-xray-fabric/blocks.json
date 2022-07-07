@@ -1,0 +1,233 @@
+[
+  {
+    "name": "default",
+    "entries": [
+      {
+        "state": "{Name:\"minecraft:diamond_ore\"}",
+        "name": "Diamond Ore",
+        "color": "#a5e2ff",
+        "order": 1,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:copper_ore\"}",
+        "name": "Copper Ore",
+        "color": "#ff9e00",
+        "order": 2,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:spawner\"}",
+        "name": "Spawner",
+        "color": "#00ff00",
+        "order": 4,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:iron_ore\"}",
+        "name": "Iron Ore",
+        "color": "#ffc89b",
+        "order": 4,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:ancient_debris\"}",
+        "name": "Ancient Debris",
+        "color": "#00ffff",
+        "order": 5,
+        "isDefault": false,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:player_head\",Properties:{rotation:\"0\"}}",
+        "name": "Player Head",
+        "color": "#ff0000",
+        "order": 6,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_diamond_ore\"}",
+        "name": "Deepslate Diamond Ore",
+        "color": "#a5e2ff",
+        "order": 7,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:raw_iron_block\"}",
+        "name": "Block of Raw Iron",
+        "color": "#ffb46b",
+        "order": 8,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:raw_copper_block\"}",
+        "name": "Block of Raw Copper",
+        "color": "#b9705f",
+        "order": 9,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:raw_gold_block\"}",
+        "name": "Block of Raw Gold",
+        "color": "#ffd500",
+        "order": 10,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:chest\",Properties:{facing:\"north\",type:\"single\",waterlogged:\"false\"}}",
+        "name": "Chest",
+        "color": "#0000ff",
+        "order": 11,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:bee_nest\",Properties:{facing:\"north\",honey_level:\"0\"}}",
+        "name": "Bee Nest",
+        "color": "#ffff00",
+        "order": 12,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_coal_ore\"}",
+        "name": "Deepslate Coal Ore",
+        "color": "#000000",
+        "order": 13,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:flowering_azalea\"}",
+        "name": "Flowering Azalea",
+        "color": "#00ff00",
+        "order": 14,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_gold_ore\"}",
+        "name": "Deepslate Gold Ore",
+        "color": "#ffff00",
+        "order": 16,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:nether_quartz_ore\"}",
+        "name": "Nether Quartz Ore",
+        "color": "#ffffff",
+        "order": 17,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:clay\"}",
+        "name": "Clay",
+        "color": "#00ffff",
+        "order": 18,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_redstone_ore\",Properties:{lit:\"false\"}}",
+        "name": "Deepslate Redstone Ore",
+        "color": "#ff0000",
+        "order": 19,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_iron_ore\"}",
+        "name": "Deepslate Iron Ore",
+        "color": "#e1ba89",
+        "order": 20,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_lapis_ore\"}",
+        "name": "Deepslate Lapis Lazuli Ore",
+        "color": "#0000ff",
+        "order": 21,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:deepslate_emerald_ore\"}",
+        "name": "Deepslate Emerald Ore",
+        "color": "#00ff00",
+        "order": 22,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:lectern\",Properties:{facing:\"north\",has_book:\"false\",powered:\"false\"}}",
+        "name": "Lectern",
+        "color": "#00ff00",
+        "order": 23,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:vine\",Properties:{east:\"false\",north:\"false\",south:\"false\",up:\"false\",west:\"false\"}}",
+        "name": "Vines",
+        "color": "#00ff00",
+        "order": 24,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:lapis_ore\"}",
+        "name": "Lapis Lazuli Ore",
+        "color": "#0000ff",
+        "order": 25,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"minecraft:emerald_ore\"}",
+        "name": "Emerald Ore",
+        "color": "#00ff00",
+        "order": 25,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:barrel\",Properties:{facing:\"north\",open:\"false\"}}",
+        "name": "Barrel",
+        "color": "#0000ff",
+        "order": 26,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:dragon_egg\"}",
+        "name": "Dragon Egg",
+        "color": "#ffff00",
+        "order": 27,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:jungle_log\",Properties:{axis:\"y\"}}",
+        "name": "Jungle Log",
+        "color": "#00ff00",
+        "order": 28,
+        "isDefault": true,
+        "active": true
+      }
+    ],
+    "order": 1,
+    "active": true
+  }
+]

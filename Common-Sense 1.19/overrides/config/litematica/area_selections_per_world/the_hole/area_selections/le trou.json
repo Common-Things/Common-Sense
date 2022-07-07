@@ -1,0 +1,19 @@
+{
+  "name": "le trou",
+  "current": "le trou",
+  "boxes": [
+    {
+      "pos1": [
+        -911,
+        58,
+        -384
+      ],
+      "pos2": [
+        -847,
+        73,
+        -463
+      ],
+      "name": "le trou"
+    }
+  ]
+}

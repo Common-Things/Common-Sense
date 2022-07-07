@@ -1,0 +1,15 @@
+{
+  "enabled": false,
+  "blurRadius": 0.8,
+  "trail": 0.5,
+  "alpha": 0.2,
+  "blurCount": 5,
+  "brightness": -0.2,
+  "contrast": 2.0,
+  "monotone": true,
+  "tint": {
+    "r": 0.4784,
+    "g": 0.5686,
+    "b": 0.5098
+  }
+}
