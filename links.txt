@@ -43,11 +43,17 @@ https://www.curseforge.com/minecraft/mc-mods/break-progress
 Concurrent Chunk Management Engine (Fabric) ✅
 https://modrinth.com/mod/c2me-fabric
 
+CameraOverhaul ✅
+https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul
+
 Carpet-Fixes ✅
 https://modrinth.com/mod/carpet-fixes
 
 Carpet TIS Addition ✅
 https://modrinth.com/mod/carpet-tis-addition
+
+Cull Less Leaves ✅
+https://modrinth.com/mod/cull-less-leaves
 
 Custom Entity Models ✅
 https://modrinth.com/mod/cem
@@ -93,6 +99,9 @@ https://modrinth.com/mod/dcch
 
 Debugify ✅
 https://modrinth.com/mod/debugify
+
+Draggable Resource Packs ✅
+https://modrinth.com/mod/draggable-resource-packs
 
 Dynamic Crosshair ✅
 https://modrinth.com/mod/dynamiccrosshair
@@ -253,6 +262,9 @@ https://modrinth.com/mod/polymer
 Presence Footsteps ✅
 https://modrinth.com/mod/presence-footsteps
 
+Pronounify ✅
+https://modrinth.com/mod/pronounify
+
 PurpurClient ✅
 https://modrinth.com/mod/purpurclient
 
@@ -262,10 +274,13 @@ https://modrinth.com/mod/puzzle
 Quilted Fabric API / Quilt Standard Libraries ✅
 https://modrinth.com/mod/qsl
 
-Reload Audio Driver (RAD) [Fabric] ✅
-https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-rad
+Reese's Sodium Options ✅
+https://modrinth.com/mod/reeses-sodium-options
 
-Scrollable Tooltips ✅
+Reload Audio Driver (RAD) [Fabric] ✅
+https://www.curseforge.com/minecraft/mc-mods/reload-audio-driver-fabric
+
+Scrollable Tooltips
 https://modrinth.com/mod/scrollable-tooltips
 
 Seedfix
@@ -295,7 +310,7 @@ https://modrinth.com/mod/sound-physics-remastered
 spark ✅
 https://modrinth.com/mod/spark
 
-Spectater
+Spectater ✅
 https://modrinth.com/mod/spectater
 
 Starlight (Fabric) ✅
