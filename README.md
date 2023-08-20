@@ -1,6 +1,8 @@
 # Common-sense
 List of Fabric mods I approve and use everyday
 
+# PAGE REWORK IN PROGRESS
+
 [![CodeFactor](https://www.codefactor.io/repository/github/craftish37/common-sense/badge)](https://www.codefactor.io/repository/github/craftish37/common-sense)
 
 *Mods are updated to the latest minecraft release, actual version of the repo : `1.19.2 (actually 1.19.1 but wait a bit :^P)`*
