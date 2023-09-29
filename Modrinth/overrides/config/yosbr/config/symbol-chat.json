@@ -1,0 +1,16 @@
+{
+  "hud_color": -2147483648,
+  "button_color": -1610612736,
+  "button_active_color": -1608507360,
+  "favorite_color": -256,
+  "hide_font_button": false,
+  "hide_settings_button": true,
+  "hide_table_button": false,
+  "symbol_panel_height": 200,
+  "max_symbol_suggestions": 5,
+  "symbol_tooltip_mode": "DELAYED",
+  "hud_position": "LEFT",
+  "keep_panel_open": false,
+  "custom_symbols": "",
+  "custom_kaomojis": []
+}

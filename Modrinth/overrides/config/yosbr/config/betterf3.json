@@ -1,0 +1,109 @@
+{
+	"general": {
+		"disable_mod": false,
+		"hide_bossbar": true,
+		"shadow_text": true,
+		"auto_start": false,
+		"animationSpeed": 1.0,
+		"hide_debug_crosshair": false,
+		"background_color": 1867534416,
+		"space_modules": false,
+		"always_show_profiler": false,
+		"animations": false,
+		"fontScale": 1.0,
+		"hide_sidebar": true,
+		"always_show_tps": false
+	},
+	"modules_right": [
+		{
+			"name": "system",
+			"name_color": 11184810,
+			"value_color": 16777045,
+			"lines": {
+				"opengl_version": true,
+				"allocation_rate": true,
+				"display": true,
+				"java_version": true,
+				"gpu_driver": true,
+				"memory_usage": true,
+				"allocated_memory": true,
+				"cpu": true,
+				"gpu_utilization": true,
+				"time": true,
+				"gpu": true
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "target",
+			"name_color": 11184810,
+			"value_color": 16777045,
+			"lines": {
+				"id_fluid": false,
+				"fluid_tags": false,
+				"block_states": true,
+				"targeted_block": false,
+				"block_tags": true,
+				"id_block": true,
+				"nothing": true,
+				"nothing2": false,
+				"targeted_fluid": false,
+				"targeted_entity": false,
+				"fluid_states": false
+			},
+			"enabled": true
+		}
+	],
+	"modules_left": [
+		{
+			"name": "minecraft",
+			"name_color": 11184810,
+			"value_color": 16777045,
+			"lines": {
+				"minecraft": true
+			},
+			"enabled": true
+		}, 
+		{
+			"color_high": 5635925,
+			"color_med": 16777045,
+			"name": "fps",
+			"lines": {
+				"fps": true
+			},
+			"enabled": true,
+			"color_low": 16733525
+		}, 
+		{
+			"name": "server",
+			"name_color": 11184810,
+			"value_color": 16777045,
+			"lines": {
+				"server_tick": true,
+				"packets_sent": true,
+				"packets_received": true
+			},
+			"enabled": true
+		}, 
+		{
+			"name": "location",
+			"name_color": 11184810,
+			"value_color": 16777045,
+			"lines": {
+				"light": false,
+				"biome": true,
+				"rotation": false,
+				"facing": false,
+				"slime_chunk": true,
+				"local_difficulty": true,
+				"day_ticks": true,
+				"days_played": true,
+				"dimension": true,
+				"highest_block": false,
+				"highest_block_server": false,
+				"light_server": true
+			},
+			"enabled": true
+		}
+	]
+}
