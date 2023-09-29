@@ -1,8 +1,0 @@
-material: "minecraft:granite"
-extends: DEPOSIT
-id: "GRANITE"
-replace:
-  - "minecraft:stone"
-  - "minecraft:deepslate"
-  - "minecraft:andesite"
-  - "minecraft:diorite"

@@ -1,6 +1,0 @@
-{
- "top_left":[],
- "top_right":["",{"text":"#","color":"#009506"},{"text":"S","color":"#1C9505"},{"text":"I","color":"#379504"},{"text":"N","color":"#539504"},{"text":"J","color":"#6F9603"},{"text":"E","color":"#8B9602"},{"text":" ","color":"black"},{"text":"D","color":"#A69601"},{"text":"O","color":"#C29600"},{"text":"M","color":"#C78F00"},{"text":"I","color":"#B48200"},{"text":"N","color":"#A17400"},{"text":"A","color":"#8F6700"},{"text":"T","color":"#7C5900"},{"text":"I","color":"#694C00"},{"text":"O","color":"#573E00"},{"text":"N","color":"#443100","clickEvent":{"action":"open_url","value":"https://www.youtube.com/watch?v=dQw4w9WgXcQ"}}],
- "bottom_left":[],
- "bottom_right":[]
-}
